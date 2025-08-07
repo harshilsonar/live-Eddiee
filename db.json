@@ -1,0 +1,3427 @@
+{
+  "Best-seller": [
+    {
+      "id": "1",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0332534_100C1/13302797?preset=328",
+      "title": "Men's Legend Wash 100% Cotton Short-Sleeve Classic T-Shirt",
+      "price": 28,
+      "offer": "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%"
+    },
+    {
+      "id": "2",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0097303_500C1/20902475?preset=328",
+      "title": "Women's Favorite Short-Sleeve Crewneck T-Shirt",
+      "price": 25,
+      "offer": "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%"
+    },
+    {
+      "id": "3",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0097327_500C1/20902476?preset=328",
+      "title": "Women's Favorite Short-Sleeve V-Neck T-Shirt",
+      "price": 25,
+      "offer": "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%"
+    },
+    {
+      "id": "4",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0093027_851C1/20990725?preset=328",
+      "title": "Women's Legend Wash Slub Full-Zip Hoodie",
+      "price": 50,
+      "offer": ""
+    },
+    {
+      "id": "5",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0095604_500C1/20902504?preset=328",
+      "title": "Women's Favorite Long-Sleeve Crewneck T-Shirt",
+      "price": 30,
+      "offer": "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%"
+    }
+  ],
+  "Topselling": [
+    {
+      "id": "6",
+      "title": "Women's Baja Short-Sleeve Shirt",
+      "url": "https://www.eddiebauer.com/p/20824311/women's-baja-short-sleeve-shirt?sp=1&color=Rosewood",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0081229_891C1/20824311?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0081229_051C1/20824311?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081229_109C1/20824311?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081229_309C1/20824311?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081229_508C1/20824311?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081229_770C1/20824311?preset=swatch"
+      ],
+      "priceOriginal": 50,
+      "priceSale": "29.99 - $43.99",
+      "rating": 4.1,
+      "ratingCount": 119
+    },
+    {
+      "id": "7",
+      "title": "Men's Baja Short-Sleeve Shirt - Print",
+      "url": "https://www.eddiebauer.com/p/13401715/men's-baja-short-sleeve-shirt-print?sp=1&color=Lt%20Celadon",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0347032_553C1/13401715?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0347032_245C1/13401715?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0347032_109C1/13401715?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0347032_254C1/13401715?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0347032_309C1/13401715?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0347032_539C1/13401715?preset=swatch"
+      ],
+      "priceOriginal": 50,
+      "priceSale": "29.99 - $43.99",
+      "rating": 4.5,
+      "ratingCount": 786
+    },
+    {
+      "id": "8",
+      "title": "Women's Departure 3.0 Long-Sleeve Shirt",
+      "priceOriginal": 75,
+      "priceSale": "29.99 - $64.99",
+      "rating": 4.4,
+      "ratingCount": 246,
+      "url": "https://www.eddiebauer.com/p/23124297/women's-departure-3.0-long-sleeve-shirt?sp=1&color=Lt%20Pine",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314918_247C1/23124297?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314918_023C1/23124297?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314918_100C1/23124297?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314918_124C1/23124297?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314918_256C1/23124297?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314918_383C1/23124297?preset=swatch"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Women's Departure Short-Sleeve Collared T-Shirt",
+      "priceOriginal": 65,
+      "priceSale": " 29.99",
+      "rating": 4.2,
+      "ratingCount": 27,
+      "url": "https://www.eddiebauer.com/p/23124310/women's-departure-short-sleeve-collared-t-shirt?sp=1&color=Dusty%20Loden",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0315412_256C1/23124310?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0315412_023C1/23124310?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315412_100C1/23124310?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315412_256C1/23124310?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315412_867C1/23124310?preset=swatch"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Men's Short-Sleeve Camano Shirt - Solid",
+      "priceOriginal": 50,
+      "priceSale": "29.99",
+      "rating": 0,
+      "ratingCount": 0,
+      "tag": "New",
+      "url": "https://www.eddiebauer.com/p/13467454/men's-short-sleeve-camano-shirt-solid?sp=1&color=Olive",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340895_728C1/13467454?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340895_139C1/13467454?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340895_488C1/13467454?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340895_884C1/13467454?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340895_728C1/13467454?preset=swatch"
+      ]
+    },
+    {
+      "id": "11",
+      "href": "https://www.eddiebauer.com/p/13467455/men's-short-sleeve-camano-shirt-print?sp=1&color=Dk%20Ruby",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340896_590C1/13467455?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340896_493C1/13467455?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340896_283C1/13467455?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340896_877C1/13467455?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340896_590C1/13467455?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Short-Sleeve Camano Shirt - Print",
+      "priceOriginal": "55",
+      "priceSale": " 29.99",
+      "rating": 4,
+      "ratingCount": 1
+    },
+    {
+      "id": "12",
+      "href": "https://www.eddiebauer.com/p/23101180/women's-sleeveless-mountain-shirt-3.0-solid?sp=1&color=White",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0316046_500C1/23101180?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0316046_055C1/23101180?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316046_825C1/23101180?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316046_500C1/23101180?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's Sleeveless Mountain Shirt 3.0 - Solid",
+      "priceOriginal": " 60",
+      "priceSale": "29.99",
+      "rating": 4.7,
+      "ratingCount": 3
+    },
+    {
+      "id": "13",
+      "href": "https://www.eddiebauer.com/p/13401849/men's-tidelands-shirt?sp=1&color=Med%20Htr%20Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340645_149C1/13401849?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340645_248C1/13401849?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340645_162C1/13401849?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340645_300C1/13401849?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340645_149C1/13401849?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Tidelands Shirt",
+      "priceOriginal": "65",
+      "priceSale": "29.99",
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": "14",
+      "href": "https://www.eddiebauer.com/p/20801194/women's-high-tide-short-sleeve-cropped-flannel?sp=1&color=Pumice",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0081288_150C1/20801194?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0081288_150C1/20801194?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081288_518C1/20801194?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081288_825C1/20801194?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's High Tide Short-Sleeve Cropped Flannel",
+      "priceOriginal": "65",
+      "priceSale": " 29.99",
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "id": "15",
+      "href": "https://www.eddiebauer.com/p/23101188/women's-rainier-ripstop-sleeveless-shirt?sp=1&color=Dusty%20Lavender",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0316068_378C1/23101188?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0316068_419C1/23101188?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316068_500C1/23101188?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316068_732C1/23101188?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316068_378C1/23101188?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's Rainier Ripstop Sleeveless Shirt",
+      "priceOriginal": "55",
+      "priceSale": " 29.99",
+      "rating": 5,
+      "ratingCount": 3
+    },
+    {
+      "id": "16",
+      "href": "https://www.eddiebauer.com/p/23101183/women's-sleeveless-mountain-shirt-3.0-print?sp=1&color=Cameo%20Pink",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0316056_109C1/23101183?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0316056_055C1/23101183?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316056_529C1/23101183?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316056_109C1/23101183?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's Sleeveless Mountain Shirt 3.0 - Print",
+      "priceOriginal": "65",
+      "priceSale": "29.99",
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "id": "17",
+      "href": "https://www.eddiebauer.com/p/13467457/men's-camano-long-sleeve-shirt?sp=1&color=Ruby",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340897_884C1/13467457?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340897_139C1/13467457?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340897_488C1/13467457?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340897_728C1/13467457?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340897_884C1/13467457?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Camano Long-Sleeve Shirt",
+      "priceOriginal": "70",
+      "priceSale": "29.99",
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "id": "18",
+      "href": "https://www.eddiebauer.com/p/20801193/women's-high-tide-long-sleeve-cropped-flannel?sp=1&color=Lt%20Tan",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0081287_836C1/20801193?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0081287_256C1/20801193?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081287_836C1/20801193?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081287_867C1/20801193?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's High Tide Long-Sleeve Cropped Flannel",
+      "priceOriginal": "75",
+      "priceSale": "29.99",
+      "rating": 2,
+      "ratingCount": 1
+    },
+    {
+      "id": "19",
+      "href": "https://www.eddiebauer.com/p/20801197/women's-everyday-cotton-short-sleeve-shirt?sp=1&color=Cameo%20Pink",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0081291_109C1/20801197?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0081291_245C1/20801197?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081291_109C1/20801197?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's Everyday Cotton Short-Sleeve Shirt",
+      "priceOriginal": "70",
+      "priceSale": "29.99",
+      "rating": 3.5,
+      "ratingCount": 2
+    },
+    {
+      "id": "20",
+      "href": "https://www.eddiebauer.com/p/13401832/men's-voyager-flex-long-sleeve-shirt?sp=1&color=Vapour",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340611_931C1/13401832?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340611_342C1/13401832?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340611_040C1/13401832?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340611_158C1/13401832?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340611_315C1/13401832?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340611_400C1/13401832?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Voyager Flex Long-Sleeve Shirt",
+      "priceOriginal": "75",
+      "priceSale": " 39.99",
+      "rating": 4.5,
+      "ratingCount": 352
+    },
+    {
+      "id": "21",
+      "href": "https://www.eddiebauer.com/p/12924889/men's-departure-two-pocket-shirt?sp=1&color=Blue%20Fog",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291636_867C1/12924889?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291636_245C1/12924889?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291636_485C1/12924889?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291636_728C1/12924889?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291636_867C1/12924889?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Departure Two-Pocket Shirt",
+      "priceOriginal": "70",
+      "priceSale": "39.99",
+      "rating": 4.9,
+      "ratingCount": 7
+    },
+    {
+      "id": "22",
+      "href": "https://www.eddiebauer.com/p/13838626/men's-upf-guide-2.0-long-sleeve-shirt?sp=1&color=Light%20Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0380416_184C1/13838626?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0380416_315C1/13838626?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0380416_245C1/13838626?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0380416_309C1/13838626?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0380416_184C1/13838626?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's UPF Guide 2.0 Long-Sleeve Shirt",
+      "priceOriginal": "85",
+      "priceSale": "49.99",
+      "rating": 4.6,
+      "ratingCount": 209
+    },
+    {
+      "id": "23",
+      "href": "https://www.eddiebauer.com/p/13401850/men's-tidelands-short-sleeve-yarn-dyed-textured-shirt?sp=1&color=Htr%20Teak",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340625_556C1/13401850?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340625_248C1/13401850?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340625_011C1/13401850?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340625_030C1/13401850?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340625_162C1/13401850?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340625_556C1/13401850?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Tidelands Short-Sleeve Yarn-Dyed Textured Shirt",
+      "priceOriginal": "55",
+      "priceSale": " 34.99",
+      "rating": 4.6,
+      "ratingCount": 156
+    },
+    {
+      "id": "24",
+      "href": "https://www.eddiebauer.com/p/12924894/men's-departure-one-pocket-shirt?sp=1&color=Ochre",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291682_610C1/12924894?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291682_738C1/12924894?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291682_485C1/12924894?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291682_898C1/12924894?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291682_610C1/12924894?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Departure One-Pocket Shirt",
+      "priceOriginal": "60",
+      "priceSale": "39.99",
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "id": "25",
+      "href": "https://www.eddiebauer.com/p/12924888/men's-short-sleeve-pack-it-2.0-seersucker-shirt?sp=1&color=Oregano",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291634_972C1/12924888?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291634_249C1/12924888?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291634_877C1/12924888?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291634_972C1/12924888?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Short-Sleeve Pack It 2.0 Seersucker Shirt",
+      "priceOriginal": "65",
+      "priceSale": "39.99",
+      "rating": 3.6,
+      "ratingCount": 5
+    },
+    {
+      "id": "26",
+      "href": "https://www.eddiebauer.com/p/20801191/women's-travel-light-crinkle-cotton-short-sleeve-shirt?sp=1&color=Tan",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0081285_245C1/20801191?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0081285_581C1/20801191?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081285_245C1/20801191?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081285_500C1/20801191?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's Travel Light Crinkle Cotton Short-Sleeve Shirt",
+      "priceOriginal": "75",
+      "priceSale": " 44.99",
+      "rating": 3.5,
+      "ratingCount": 8
+    },
+    {
+      "id": "27",
+      "href": "https://www.eddiebauer.com/p/12967216/men's-rainier-long-sleeve-ripstop-shirt?sp=1&color=Slate",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291686_178C1/12967216?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291686_225C1/12967216?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291686_283C1/12967216?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291686_500C1/12967216?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291686_867C1/12967216?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291686_178C1/12967216?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Rainier Long-Sleeve Ripstop Shirt",
+      "priceOriginal": "70",
+      "priceSale": "39.99",
+      "rating": 5,
+      "ratingCount": 4
+    },
+    {
+      "id": "28",
+      "href": "https://www.eddiebauer.com/p/a0081284/women's-travel-light-crinkle-cotton-long-sleeve-shirt?sp=1&color=Dusk",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0081284_581C1/a0081284?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0081284_245C1/a0081284?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081284_500C1/a0081284?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081284_581C1/a0081284?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's Travel Light Crinkle Cotton Long-Sleeve Shirt",
+      "priceOriginal": "85",
+      "priceSale": "49.99",
+      "rating": 3.6,
+      "ratingCount": 7
+    },
+    {
+      "id": "29",
+      "href": "https://www.eddiebauer.com/p/12924900/men's-mountain-shirt-print?sp=1&color=Off%20White",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291702_532C1/12924900?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291702_493C1/12924900?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291702_419C1/12924900?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291702_738C1/12924900?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291702_532C1/12924900?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Mountain Shirt - Print",
+      "priceOriginal": "85",
+      "priceSale": " 49.99",
+      "rating": null,
+      "ratingCount": 0
+    },
+    {
+      "id": "30",
+      "href": "https://www.eddiebauer.com/p/13838625/men's-upf-guide-2.0-short-sleeve-shirt?sp=1&color=Dk%20Ruby",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0380415_590C1/13838625?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0380415_283C1/13838625?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0380415_184C1/13838625?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0380415_400C1/13838625?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0380415_500C1/13838625?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0380415_528C1/13838625?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's UPF Guide 2.0 Short-Sleeve Shirt",
+      "priceOriginal": "75",
+      "priceSale": "39.99 - 64.99",
+      "rating": 4.7,
+      "ratingCount": 171
+    },
+    {
+      "id": "31",
+      "href": "https://www.eddiebauer.com/p/12924887/men's-long-sleeve-pack-it-2.0-seersucker-shirt?sp=1&color=Alpine%20Green",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291635_493C1/12924887?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291635_972C1/12924887?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291635_184C1/12924887?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291635_436C1/12924887?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291635_493C1/12924887?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's Long-Sleeve Pack It 2.0 Seersucker Shirt",
+      "priceOriginal": "75",
+      "priceSale": "44.99",
+      "rating": 3.6,
+      "ratingCount": 5
+    },
+    {
+      "id": "32",
+      "href": "https://www.eddiebauer.com/p/23101184/women's-guide-3.0-upf-long-sleeve-shirt?sp=1&color=Pumice",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0316058_150C1/23101184?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0316058_256C1/23101184?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316058_378C1/23101184?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316058_500C1/23101184?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316058_150C1/23101184?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's Guide 3.0 UPF Long-Sleeve Shirt",
+      "priceOriginal": "85",
+      "priceSale": "39.99",
+      "rating": 3.3,
+      "ratingCount": 4
+    },
+    {
+      "id": "33",
+      "href": "https://www.eddiebauer.com/p/23101089/women's-departure-short-sleeve-pocket-t-shirt?sp=1&color=Snow",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0313381_023C1/23101089?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0313381_100C1/23101089?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0313381_023C1/23101089?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0313381_242C1/23101089?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's Departure Short-Sleeve Pocket T-Shirt",
+      "priceOriginal": "60",
+      "priceSale": "29.99 - $51.99",
+      "rating": 4.5,
+      "ratingCount": 174
+    },
+    {
+      "id": "34",
+      "href": "https://www.eddiebauer.com/p/20801192/women's-casual-camp-overshirt?sp=1&color=Dusk",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0081286_581C1/20801192?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0081286_732C1/20801192?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081286_581C1/20801192?preset=swatch"
+      ],
+      "title": "Women's Casual Camp Overshirt",
+      "priceOriginal": "90.00",
+      "priceSale": "39.99",
+      "rating": 4.2,
+      "ratingCount": 6
+    },
+    {
+      "id": "35",
+      "href": "https://www.eddiebauer.com/p/20801212/women's-denim-overshirt?sp=1&color=Medium%20Indigo",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0081401_488C1/20801212?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0081401_488C1/20801212?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081401_501C1/20801212?preset=swatch"
+      ],
+      "title": "Women's Denim Overshirt",
+      "priceOriginal": "70.00",
+      "priceSale": "39.99",
+      "rating": 4.6,
+      "ratingCount": 5
+    },
+    {
+      "id": "36",
+      "href": "https://www.eddiebauer.com/p/23101185/women's-short-sleeve-upf-guide-3.0-shirt?sp=1&color=Dusty%20Loden",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0316060_256C1/23101185?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0316060_378C1/23101185?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316060_500C1/23101185?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0316060_256C1/23101185?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Women's Short-Sleeve UPF Guide 3.0 Shirt",
+      "priceOriginal": "75.00",
+      "priceSale": "39.99",
+      "rating": 3.5,
+      "ratingCount": 2
+    },
+    {
+      "id": "37",
+      "href": "https://www.eddiebauer.com/p/12924554/men's-atlas-exploration-flex-long-sleeve-shirt?sp=1&color=Dusty%20Loden",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291061_256C1/12924554?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291061_405C1/12924554?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291061_867C1/12924554?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291061_256C1/12924554?preset=swatch"
+      ],
+      "title": "Men's Atlas Exploration Flex Long-Sleeve Shirt",
+      "priceOriginal": "90.00",
+      "priceSale": "39.99",
+      "rating": 4.7,
+      "ratingCount": 198
+    },
+    {
+      "id": "38",
+      "href": "https://www.eddiebauer.com/p/12924891/men's-front-range-2.0-chambray-shirt?sp=1&color=Dusk",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291638_581C1/12924891?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291638_110C1/12924891?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291638_309C1/12924891?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291638_485C1/12924891?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291638_581C1/12924891?preset=swatch"
+      ],
+      "title": "Men's Front Range 2.0 Chambray Shirt",
+      "priceOriginal": "99.00",
+      "priceSale": "59.99",
+      "rating": 3.5,
+      "ratingCount": 2
+    },
+    {
+      "id": "39",
+      "href": "https://www.eddiebauer.com/p/13401875/men's-eb-hemplify-camp-shirt?sp=1&color=Undyed",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340753_327C1/13401875?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340753_300C1/13401875?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340753_327C1/13401875?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340753_405C1/13401875?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340753_507C1/13401875?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340753_225C1/13401875?preset=swatch"
+      ],
+      "tag": "New",
+      "title": "Men's EB Hemplify Camp Shirt",
+      "priceOriginal": "70.00",
+      "priceSale": "39.99 - $60.99",
+      "rating": "Product rating 4 of 5 stars",
+      "ratingCount": "28"
+    },
+    {
+      "id": "40",
+      "href": "https://www.eddiebauer.com/p/21101682/women's-departure-blazer?sp=1&color=Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0111608_139C1/21101682?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0111608_150C1/21101682?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0111608_045C1/21101682?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0111608_100C1/21101682?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0111608_139C1/21101682?preset=swatch"
+      ],
+      "title": "Women's Departure Blazer",
+      "priceOriginal": "129.00",
+      "priceSale": "69.99",
+      "rating": "Product rating 4 of 5 stars",
+      "ratingCount": "727"
+    },
+    {
+      "id": "41",
+      "href": "https://www.eddiebauer.com/p/13401821/men's-ultimate-voyager-travel-blazer?sp=1&color=Dk%20Charcoal%20Htr",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340504_123C1/13401821?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340504_100C1/13401821?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340504_110C1/13401821?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340504_400C1/13401821?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340504_123C1/13401821?preset=swatch"
+      ],
+      "title": "Men's Ultimate Voyager Travel Blazer",
+      "priceOriginal": "149.00",
+      "priceSale": "89.99",
+      "rating": "Product rating 3.8 of 5 stars",
+      "ratingCount": "481"
+    },
+    {
+      "id": "42",
+      "href": "https://www.eddiebauer.com/p/13401760/men's-eddie's-favorite-flannel-classic-fit-shirt-solid?sp=1&color=Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340159_139C1/13401760?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340159_254C1/13401760?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340159_051C1/13401760?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340159_141C1/13401760?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340159_166C1/13401760?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340159_523C1/13401760?preset=swatch"
+      ],
+      "title": "Men's Eddie's Favorite Flannel Classic Fit Shirt - Solid",
+      "priceOriginal": "80.00",
+      "priceSale": "$29.99 - 68.99",
+      "rating": "Product rating 4.5 of 5 stars",
+      "ratingCount": "788"
+    }
+  ],
+  "jackets": [
+    {
+      "id": "43",
+      "url": "https://www.eddiebauer.com/p/20656828/women's-rainfoil(r)-storm-waterproof-jacket?sp=1&color=Lt%20Celadon",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062223_553C1/20656828?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062223_150C1/20656828?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062223_100C1/20656828?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062223_283C1/20656828?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062223_325C1/20656828?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062223_553C1/20656828?preset=swatch"
+      ],
+      "title": "Women's Rainfoil® Storm Waterproof Jacket",
+      "priceSale": "109.00",
+      "rating": "4.6",
+      "ratingCount": "68"
+    },
+    {
+      "id": "44",
+      "url": "https://www.eddiebauer.com/p/20656867/women's-quilo-wind-jacket?sp=1&color=Yellow",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062220_900C1/20656867?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062220_100C1/20656867?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062220_256C1/20656867?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062220_553C1/20656867?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062220_898C1/20656867?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062220_900C1/20656867?preset=swatch"
+      ],
+      "title": "Women's Quilo Wind Jacket",
+      "priceSale": "60.00",
+      "rating": "",
+      "ratingCount": "0",
+      "tags": [
+        "New",
+        "New",
+        "New Style!"
+      ]
+    },
+    {
+      "id": "45",
+      "url": "https://www.eddiebauer.com/p/20656669/women's-radius-hybrid-jacket?sp=1&color=Crocus",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062230_055C1/20656669?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062230_417C1/20656669?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062230_100C1/20656669?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062230_055C1/20656669?preset=swatch"
+      ],
+      "title": "Women's Radius Hybrid Jacket",
+      "priceSale": "90.00",
+      "rating": "",
+      "ratingCount": "0",
+      "tags": [
+        "New",
+        "New",
+        "New Style!"
+      ]
+    },
+    {
+      "id": "46",
+      "url": "https://www.eddiebauer.com/p/10151658/men's-quilo-wind-jacket?sp=1&color=Alpine%20Green",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0010727_493C1/10151658?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0010727_182C1/10151658?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010727_100C1/10151658?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010727_300C1/10151658?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010727_810C1/10151658?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010727_493C1/10151658?preset=swatch"
+      ],
+      "title": "Men's Quilo Wind Jacket",
+      "priceSale": "60.00",
+      "rating": "",
+      "ratingCount": "0",
+      "tags": [
+        "New",
+        "New",
+        "New Style!"
+      ]
+    },
+    {
+      "id": "47",
+      "url": "https://www.eddiebauer.com/p/10112626/men's-momentum-upf-hoodie?sp=1&color=Dusk",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0010731_581C1/10112626?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0010731_100C1/10112626?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010731_182C1/10112626?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010731_320C1/10112626?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010731_581C1/10112626?preset=swatch"
+      ],
+      "title": "Men's Momentum UPF Hoodie",
+      "priceSale": "89.00",
+      "tags": [
+        "New"
+      ],
+      "rating": "",
+      "ratingCount": "0"
+    },
+    {
+      "id": "48",
+      "url": "https://www.eddiebauer.com/p/38888660/men's-cloud-cap-3l-waterproof-rain-jacket?sp=1&color=Blue",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0881074_300C1/38888660?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0881074_182C1/38888660?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0881074_100C1/38888660?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0881074_300C1/38888660?preset=swatch"
+      ],
+      "title": "Men's Cloud Cap 3L Waterproof Rain Jacket",
+      "priceSale": "179.00",
+      "tags": [],
+      "rating": "4.6",
+      "ratingCount": "58"
+    },
+    {
+      "id": "49",
+      "url": "https://www.eddiebauer.com/p/20612727/women's-shaw-down-bomber-jacket?sp=1&color=Antique%20Bronze",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062108_854C1/20612727?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062108_283C1/20612727?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062108_150C1/20612727?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062108_854C1/20612727?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062108_983C1/20612727?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062108_100C1/20612727?preset=swatch"
+      ],
+      "title": "Women's Shaw Down Bomber Jacket",
+      "priceOriginal": "149.99",
+      "priceSale": "127.99",
+      "tags": [],
+      "rating": "4.6",
+      "ratingCount": "88"
+    },
+    {
+      "id": "50",
+      "url": "https://www.eddiebauer.com/p/21101682/women's-departure-blazer?sp=1&color=Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0111608_139C1/21101682?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0111608_150C1/21101682?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0111608_045C1/21101682?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0111608_100C1/21101682?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0111608_139C1/21101682?preset=swatch"
+      ],
+      "title": "Women's Departure Blazer",
+      "priceSale": "129.00",
+      "tags": [],
+      "rating": "4",
+      "ratingCount": "734"
+    },
+    {
+      "id": "51",
+      "url": "https://www.eddiebauer.com/p/20612718/women's-wren-insulated-jacket?sp=1&color=Capers",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062097_062C1/20612718?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062097_062C1/20612718?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062097_100C1/20612718?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062097_289C1/20612718?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062097_377C1/20612718?preset=swatch"
+      ],
+      "title": "Women's Wren Insulated Jacket",
+      "priceOriginal": "159.00",
+      "priceSale": "135.99",
+      "tags": [],
+      "rating": "4.4",
+      "ratingCount": "33"
+    },
+    {
+      "id": "52",
+      "url": "https://www.eddiebauer.com/p/10112588/men's-cirruslite-shirt-jacket?sp=1&color=Capers",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0010617_062C1/10112588?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0010617_062C1/10112588?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010617_100C1/10112588?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010617_204C1/10112588?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010617_182C1/10112588?preset=swatch"
+      ],
+      "title": "Men's CirrusLite Shirt Jacket",
+      "priceOriginal": "129.00",
+      "priceSale": "110.99",
+      "tags": [],
+      "rating": "4.6",
+      "ratingCount": "41"
+    },
+    {
+      "id": "53",
+      "url": "https://www.eddiebauer.com/p/13401821/men's-ultimate-voyager-travel-blazer?sp=1&color=Dk%20Charcoal%20Htr",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340504_123C1/13401821?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340504_100C1/13401821?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340504_110C1/13401821?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340504_400C1/13401821?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340504_123C1/13401821?preset=swatch"
+      ],
+      "title": "Men's Ultimate Voyager Travel Blazer",
+      "priceSale": "149.00",
+      "rating": "3.8",
+      "ratingCount": 487,
+      "tags": []
+    },
+    {
+      "id": "54",
+      "url": "https://www.eddiebauer.com/p/10112625/men's-hillman-field-jacket?sp=1&color=Hazelnut",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0010729_557C1/10112625?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0010729_485C1/10112625?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010729_241C1/10112625?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010729_557C1/10112625?preset=swatch"
+      ],
+      "title": "Men's Hillman Field Jacket",
+      "priceSale": "129.00",
+      "rating": "4.7",
+      "ratingCount": 3,
+      "tags": []
+    },
+    {
+      "id": "55",
+      "url": "https://www.eddiebauer.com/p/20612745/women's-momentum-hoodie?sp=1&color=Aubergine",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062214_304C1/20612745?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062214_100C1/20612745?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062214_118C1/20612745?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062214_383C1/20612745?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062214_304C1/20612745?preset=swatch"
+      ],
+      "title": "Women's Momentum Hoodie",
+      "priceSale": "89.00",
+      "rating": "",
+      "ratingCount": 0,
+      "tags": [
+        "New",
+        "New",
+        "New Style!"
+      ]
+    },
+    {
+      "id": "56",
+      "url": "https://www.eddiebauer.com/p/20656865/women's-rainy-pass-water-repellent-jacket?sp=1&color=Blue%20Fog",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062218_867C1/20656865?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062218_304C1/20656865?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062218_100C1/20656865?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062218_256C1/20656865?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062218_482C1/20656865?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062218_867C1/20656865?preset=swatch"
+      ],
+      "title": "Women's Rainy Pass Water-Repellent Jacket",
+      "priceSale": "99.00",
+      "rating": "5",
+      "ratingCount": 2,
+      "tags": []
+    },
+    {
+      "id": "57",
+      "url": "https://www.eddiebauer.com/p/20656732/women's-emberlite-hybrid-jacket?sp=1&color=Alpine%20Green",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062234_493C1/20656732?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062234_100C1/20656732?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062234_500C1/20656732?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062234_493C1/20656732?preset=swatch"
+      ],
+      "title": "Women's Emberlite Hybrid Jacket",
+      "priceSale": "100.00",
+      "rating": "4",
+      "ratingCount": 95,
+      "tags": []
+    },
+    {
+      "id": "58",
+      "url": "https://www.eddiebauer.com/p/38888671/men's-cloud-cap-stretch-waterproof-rain-jacket?sp=1&color=Blue",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0881141_300C1/38888671?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0881141_182C1/38888671?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0881141_100C1/38888671?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0881141_236C1/38888671?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0881141_728C1/38888671?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0881141_300C1/38888671?preset=swatch"
+      ],
+      "title": "Men's Cloud Cap Stretch Waterproof Rain Jacket",
+      "priceSale": "149.00",
+      "rating": "3.9",
+      "ratingCount": 34,
+      "tags": []
+    },
+    {
+      "id": "59",
+      "title": "Men's Rainy Pass Water-Repellent Jacket",
+      "priceSale": "99.00",
+      "rating": 4,
+      "ratingCount": 1,
+      "url": "https://www.eddiebauer.com/p/10151654/men's-rainy-pass-water-repellent-jacket?sp=1&color=Field%20Gold",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0010721_810C1/10151654?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0010721_182C1/10151654?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010721_100C1/10151654?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010721_283C1/10151654?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010721_300C1/10151654?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010721_810C1/10151654?preset=swatch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "60",
+      "title": "Men's Oscillate 3L Waterproof Trench Coat",
+      "priceSale": "229.00",
+      "rating": 4,
+      "ratingCount": 7,
+      "url": "https://www.eddiebauer.com/p/38888673/men's-oscillate-3l-waterproof-trench-coat?sp=1&color=Spruce",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0881143_738C1/38888673?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0881143_182C1/38888673?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0881143_100C1/38888673?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0881143_738C1/38888673?preset=swatch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "61",
+      "title": "Women's Seahurst Waterproof Rain Jacket",
+      "priceSale": "129.00",
+      "rating": 5,
+      "ratingCount": 1,
+      "url": "https://www.eddiebauer.com/p/20656866/women's-seahurst-waterproof-rain-jacket?sp=1&color=Purple%20Haze",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062219_898C1/20656866?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062219_245C1/20656866?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062219_100C1/20656866?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062219_898C1/20656866?preset=swatch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "62",
+      "title": "Women's Cloud Cap Waterproof Rain Jacket",
+      "priceSale": "109.00",
+      "rating": 4.3,
+      "ratingCount": 757,
+      "url": "https://www.eddiebauer.com/p/38989670/women's-cloud-cap-waterproof-rain-jacket?sp=1&color=Light%20Plum",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0891362_383C1/38989670?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0891362_377C1/38989670?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0891362_100C1/38989670?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0891362_182C1/38989670?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0891362_341C1/38989670?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0891362_685C1/38989670?preset=swatch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "63",
+      "title": "Men's Rainy Pass Water-Repellent Jacket",
+      "priceSale": "99.00",
+      "rating": 4,
+      "ratingCount": 1,
+      "url": "https://www.eddiebauer.com/p/10151654/men's-rainy-pass-water-repellent-jacket?sp=1&color=Field%20Gold",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0010721_810C1/10151654?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0010721_182C1/10151654?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010721_100C1/10151654?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010721_283C1/10151654?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010721_300C1/10151654?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010721_810C1/10151654?preset=swatch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "64",
+      "title": "Men's Oscillate 3L Waterproof Trench Coat",
+      "priceSale": "229.00",
+      "rating": 4,
+      "ratingCount": 7,
+      "url": "https://www.eddiebauer.com/p/38888673/men's-oscillate-3l-waterproof-trench-coat?sp=1&color=Spruce",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0881143_738C1/38888673?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0881143_182C1/38888673?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0881143_100C1/38888673?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0881143_738C1/38888673?preset=swatch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "65",
+      "title": "Women's Seahurst Waterproof Rain Jacket",
+      "priceSale": "129.00",
+      "rating": 5,
+      "ratingCount": 1,
+      "url": "https://www.eddiebauer.com/p/20656866/women's-seahurst-waterproof-rain-jacket?sp=1&color=Purple%20Haze",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062219_898C1/20656866?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062219_245C1/20656866?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062219_100C1/20656866?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062219_898C1/20656866?preset=swatch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "66",
+      "title": "Women's Cloud Cap Waterproof Rain Jacket",
+      "priceSale": "109.00",
+      "rating": 4.3,
+      "ratingCount": 757,
+      "url": "https://www.eddiebauer.com/p/38989670/women's-cloud-cap-waterproof-rain-jacket?sp=1&color=Light%20Plum",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0891362_383C1/38989670?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0891362_377C1/38989670?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0891362_100C1/38989670?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0891362_182C1/38989670?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0891362_341C1/38989670?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0891362_685C1/38989670?preset=swatch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "67",
+      "title": "Women's Port Townsend Jacket",
+      "priceSale": "149.00",
+      "rating": 3.3,
+      "ratingCount": 3,
+      "url": "https://www.eddiebauer.com/p/20612742/women's-port-townsend-jacket?sp=1&color=Dijon",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062211_482C1/20612742?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0062211_283C1/20612742?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062211_100C1/20612742?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062211_898C1/20612742?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0062211_482C1/20612742?preset=swatch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "68",
+      "title": "Men's Quilo Lined Windbreaker",
+      "priceSale": "99.00",
+      "rating": 0,
+      "ratingCount": 0,
+      "url": "https://www.eddiebauer.com/p/10112628/men's-quilo-lined-windbreaker?sp=1&color=Sprig",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0010739_283C1/10112628?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0010739_182C1/10112628?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010739_100C1/10112628?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010739_283C1/10112628?preset=swatch"
+      ],
+      "tags": [
+        "New",
+        "New",
+        "New Style!"
+      ]
+    },
+    {
+      "id": "69",
+      "title": "Men's Trekker Hoodie",
+      "priceSale": "149.00",
+      "rating": 4.5,
+      "ratingCount": 79,
+      "url": "https://www.eddiebauer.com/p/10112534/men's-trekker-hoodie?sp=1&color=Bark",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0010465_219C1/10112534?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0010465_062C1/10112534?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010465_182C1/10112534?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010465_219C1/10112534?preset=swatch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "70",
+      "title": "Men's Emberlite Hybrid Jacket",
+      "priceSale": "100.00",
+      "rating": 4.1,
+      "ratingCount": 34,
+      "url": "https://www.eddiebauer.com/p/10151732/men's-emberlite-hybrid-jacket?sp=1&color=Dark%20Forest",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0010754_392C1/10151732?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0010754_182C1/10151732?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010754_100C1/10151732?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0010754_392C1/10151732?preset=swatch"
+      ],
+      "tags": []
+    }
+  ],
+  "Dresses": [
+    {
+      "id": "71",
+      "url": "https://www.eddiebauer.com/p/a0315436/women's-departure-midi-dress?sp=1&color=Desert%20Pink",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0315436_825C1/a0315436?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0315436_100C1/a0315436?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315436_256C1/a0315436?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315436_433C1/a0315436?preset=swatch"
+      ],
+      "title": "Women's Departure Midi Dress",
+      "priceSale": "90.00",
+      "tag": "Regular Price",
+      "rating": 4.2,
+      "ratingCount": 98
+    },
+    {
+      "id": "72",
+      "url": "https://www.eddiebauer.com/p/21708190/women's-woven-texture-dress?sp=1&color=Ivory",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170248_529C1/21708190?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0170248_100C1/21708190?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0170248_309C1/21708190?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0170248_529C1/21708190?preset=swatch"
+      ],
+      "title": "Women's Woven Texture Dress",
+      "priceSale": "80.00",
+      "tag": "New",
+      "rating": 4,
+      "ratingCount": 1
+    },
+    {
+      "id": "73",
+      "url": "https://www.eddiebauer.com/p/21708188/women's-sun's-up-gauze-dress?sp=1&color=Iris",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170243_349C1/21708188?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0170243_100C1/21708188?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0170243_349C1/21708188?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0170243_732C1/21708188?preset=swatch"
+      ],
+      "title": "Women's Sun's Up Gauze Dress",
+      "priceSale": "80.00",
+      "tag": "New",
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": "74",
+      "url": "https://www.eddiebauer.com/p/23150519/women's-aster-short-sleeve-v-neck-dress?sp=1&color=Dusk",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0315853_581C1/23150519?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0315853_100C1/23150519?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315853_493C1/23150519?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315853_581C1/23150519?preset=swatch"
+      ],
+      "title": "Women's Aster Short-Sleeve V-Neck Dress",
+      "priceSale": "90.00",
+      "tag": "Regular Price",
+      "rating": 4,
+      "ratingCount": 4
+    },
+    {
+      "id": "75",
+      "url": "https://www.eddiebauer.com/p/21708186/women's-everyday-cotton-shirt-dress?sp=1&color=Sage",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170242_732C1/21708186?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0170242_051C1/21708186?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0170242_732C1/21708186?preset=swatch"
+      ],
+      "title": "Women's Everyday Cotton Shirt Dress",
+      "priceSale": "109.00",
+      "tag": "New",
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "id": "76",
+      "url": "https://www.eddiebauer.com/p/23150886/women's-aster-v-neck-midi-dress?sp=1&color=Alpine%20Green",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0315855_493C1/23150886?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0315855_581C1/23150886?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315855_100C1/23150886?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315855_493C1/23150886?preset=swatch"
+      ],
+      "title": "Women's Aster V-Neck Midi Dress",
+      "priceSale": "99.00",
+      "tag": "Regular Price",
+      "rating": 3.1,
+      "ratingCount": 9
+    },
+    {
+      "id": "77",
+      "url": "https://www.eddiebauer.com/p/21759097/women's-coast-and-climb-short-sleeve-pocket-t-shirt-dress?sp=1&color=Sprig",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170245_283C1/21759097?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0170245_100C1/21759097?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0170245_158C1/21759097?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0170245_283C1/21759097?preset=swatch"
+      ],
+      "title": "Women's Coast And Climb Short-Sleeve Pocket T-Shirt Dress",
+      "priceSale": "45.00",
+      "tag": "New",
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": "78",
+      "url": "https://www.eddiebauer.com/p/a0315435/women's-departure-jumpsuit?sp=1&color=Blue%20Fog",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0315435_867C1/a0315435?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0315435_100C1/a0315435?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315435_867C1/a0315435?preset=swatch"
+      ],
+      "title": "Women's Departure Jumpsuit",
+      "priceSale": "109.00",
+      "tag": "Regular Price",
+      "rating": "4.3",
+      "ratingCount": "51"
+    },
+    {
+      "id": "79",
+      "url": "https://www.eddiebauer.com/p/23190895/women's-resolution-sleeveless-sport-dress?sp=1&color=Turquoise",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314807_747C1/23190895?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314807_747C1/23190895?preset=swatch"
+      ],
+      "title": "Women's Resolution Sleeveless Sport Dress",
+      "priceSale": "80.00",
+      "tag": "Regular Price",
+      "rating": "4.3",
+      "ratingCount": "20"
+    },
+    {
+      "id": "80",
+      "url": "https://www.eddiebauer.com/p/23124265/women's-departure-easy-tank-dress-solid?sp=1&color=Black",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0312575_100C1/23124265?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0312575_100C1/23124265?preset=swatch"
+      ],
+      "title": "Women's Departure Easy Tank Dress - Solid",
+      "priceSale": "90.00",
+      "tag": "Regular Price",
+      "rating": "4.5",
+      "ratingCount": "284"
+    },
+    {
+      "id": "81",
+      "url": "https://www.eddiebauer.com/p/D5959366/women's-coast-and-climb-tie-waist-dress?sp=1&color=Black",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0592273_100C1/D5959366?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0592273_100C1/D5959366?preset=swatch"
+      ],
+      "title": "Women's Coast & Climb Tie Waist Dress",
+      "priceSale": "60.00",
+      "tag": "Regular Price",
+      "rating": "4",
+      "ratingCount": "2"
+    },
+    {
+      "id": "82",
+      "url": "https://www.eddiebauer.com/p/21701169/women's-eb-hemplify-sleeveless-dress?sp=1&color=White",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170208_500C1/21701169?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0170208_500C1/21701169?preset=swatch"
+      ],
+      "title": "Women's EB Hemplify Sleeveless Dress",
+      "priceSale": "99.00",
+      "tag": "Regular Price",
+      "rating": "3",
+      "ratingCount": "10"
+    },
+    {
+      "id": "83",
+      "url": "https://www.eddiebauer.com/p/D5959096/women's-coast-and-climb-sleeveless-maxi-dress?sp=1&color=Black",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0591721_100C1/D5959096?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0591721_100C1/D5959096?preset=swatch"
+      ],
+      "title": "Women's Coast and Climb Sleeveless Maxi Dress",
+      "priceSale": "45.00",
+      "tag": "Regular Price",
+      "rating": "4.3",
+      "ratingCount": "48"
+    },
+    {
+      "id": "84",
+      "url": "https://www.eddiebauer.com/p/21790871/women's-meadow-trail-sleeveless-dress?sp=1&color=Tearose",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170178_889C1/21790871?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0170178_889C1/21790871?preset=swatch"
+      ],
+      "title": "Women's Meadow Trail Sleeveless Dress",
+      "priceSale": "70.00",
+      "tag": "Regular Price",
+      "rating": "4.4",
+      "ratingCount": "36"
+    },
+    {
+      "id": "85",
+      "url": "https://www.eddiebauer.com/p/21701119/women's-beach-light-linen-midi-dress?sp=1&color=Orange",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170155_924C1/21701119?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0170155_924C1/21701119?preset=swatch"
+      ],
+      "title": "Women's Beach Light Linen Midi Dress",
+      "priceSale": "90.00",
+      "tag": "Regular Price",
+      "rating": "3.9",
+      "ratingCount": "33"
+    },
+    {
+      "id": "86",
+      "url": "https://www.eddiebauer.com/p/21790900/women's-cozy-camp-long-sleeve-hoodie-dress?sp=1&color=Lt%20Htr%20Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170165_722C1/21790900?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0170165_722C1/21790900?preset=swatch"
+      ],
+      "title": "Women's Cozy Camp Long-Sleeve Hoodie Dress",
+      "priceSale": "90.00",
+      "tag": "Regular Price",
+      "rating": "4.6",
+      "ratingCount": "161"
+    }
+  ],
+  "men": [
+    {
+      "id": "87",
+      "url": "https://www.eddiebauer.com/p/10307889/men's-horizon-guide-chino-pants?sp=1&color=Storm",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0036552_182C1/10307889?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0036552_100C1/10307889?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0036552_182C1/10307889?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0036552_225C1/10307889?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0036552_485C1/10307889?preset=swatch"
+      ],
+      "title": "Men's Horizon Guide Chino Pants",
+      "priceOriginal": "$80.00",
+      "tag": "Regular Price",
+      "priceSale": "48.00",
+      "saleTag": "Sale Price",
+      "rating": "4.4",
+      "ratingCount": "1478",
+      "offer": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "88",
+      "url": "https://www.eddiebauer.com/p/10307107/men's-voyager-flex-five-pocket-twill-pants?sp=1&color=Sprig",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030800_283C1/10307107?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030800_182C1/10307107?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030800_225C1/10307107?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030800_283C1/10307107?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030800_485C1/10307107?preset=swatch"
+      ],
+      "title": "Men's Voyager Flex Five-Pocket Twill Pants",
+      "priceOriginal": "$75.00",
+      "tag": "Regular Price",
+      "priceSale": "45.00",
+      "saleTag": "Sale Price",
+      "rating": "3.5",
+      "ratingCount": "81",
+      "offer": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "89",
+      "url": "https://www.eddiebauer.com/p/10307035/men's-voyager-flex-2.0-jeans-slim-fit?sp=1&color=Dark%20Indigo",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030550_083C1/10307035?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030550_083C1/10307035?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030550_190C1/10307035?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030550_484C1/10307035?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030550_488C1/10307035?preset=swatch"
+      ],
+      "title": "Men's Voyager Flex 2.0 Jeans - Slim Fit",
+      "priceOriginal": "$95.00",
+      "tag": "Regular Price",
+      "priceSale": "57.00",
+      "saleTag": "Sale Price",
+      "rating": "4.5",
+      "ratingCount": "781",
+      "offer": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "90",
+      "url": "https://www.eddiebauer.com/p/10307139/men's-eddie's-flex-jeans-straight-fit?sp=1&color=Dusty%20Blue",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030900_341C1/10307139?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030900_072C1/10307139?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030900_341C1/10307139?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030900_375C1/10307139?preset=swatch"
+      ],
+      "title": "Men's Eddie's Flex Jeans - Straight Fit",
+      "priceOriginal": "$75.00",
+      "tag": "Regular Price",
+      "priceSale": "45.00",
+      "saleTag": "Sale Price",
+      "rating": "4",
+      "ratingCount": "22",
+      "offer": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "91",
+      "url": "https://www.eddiebauer.com/p/10307119/men's-voyager-flex-jeans-straight-fit?sp=1&color=Medium%20Indigo",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030827_488C1/10307119?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030827_488C1/10307119?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030827_484C1/10307119?preset=swatch"
+      ],
+      "title": "Men's Voyager Flex Jeans - Straight Fit",
+      "priceOriginal": "$95.00",
+      "tag": "Regular Price",
+      "priceSale": "57.00",
+      "saleTag": "Sale Price",
+      "rating": "4.6",
+      "ratingCount": "49",
+      "offer": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "92",
+      "url": "https://www.eddiebauer.com/p/10307985/men's-flex-wrinkle-resistant-sport-chinos-classic?sp=1&color=Light%20Khaki",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030179_225C1/10307985?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030179_100C1/10307985?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030179_225C1/10307985?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030179_485C1/10307985?preset=swatch"
+      ],
+      "title": "Men's Flex Wrinkle-Resistant Sport Chinos - Classic",
+      "priceOriginal": "$85.00",
+      "tag": "Regular Price",
+      "priceSale": "51.00",
+      "saleTag": "Sale Price",
+      "rating": "4.4",
+      "ratingCount": "762",
+      "offer": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "93",
+      "url": "https://www.eddiebauer.com/p/10353090/men's-horizon-takeoff-chino-shorts-10%22?sp=1&color=Ocean",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030875_518C1/10353090?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030875_225C1/10353090?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030875_100C1/10353090?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030875_518C1/10353090?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030875_707C1/10353090?preset=swatch"
+      ],
+      "title": "Men's Horizon Takeoff Chino Shorts - 10\"",
+      "priceOriginal": "$60.00",
+      "tag": "Regular Price",
+      "priceSale": "36.00",
+      "saleTag": "Sale Price",
+      "rating": "4.8",
+      "ratingCount": "5",
+      "offer": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "94",
+      "url": "https://www.eddiebauer.com/p/10307991/men's-horizon-guide-chino-pants-slim-fit?sp=1&color=Black",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030185_100C1/10307991?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030185_100C1/10307991?preset=swatch"
+      ],
+      "title": "Men's Horizon Guide Chino Pants - Slim Fit",
+      "priceOriginal": "$80.00",
+      "tag": "Regular Price",
+      "priceSale": "48.00",
+      "saleTag": "Sale Price",
+      "rating": "4.6",
+      "ratingCount": "579",
+      "offer": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "95",
+      "url": "https://www.eddiebauer.com/p/10307130/men's-getaway-flex-twill-2.0-chino-pants?sp=1&color=Sprig",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030871_283C1/10307130?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030871_110C1/10307130?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030871_283C1/10307130?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030871_485C1/10307130?preset=swatch"
+      ],
+      "title": "Men's Getaway Flex Twill 2.0 Chino Pants",
+      "priceOriginal": "$70.00",
+      "tag": "Regular Price",
+      "priceSale": "42.00",
+      "saleTag": "Sale Price",
+      "rating": "4.2",
+      "ratingCount": "5",
+      "offer": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "96",
+      "title": "Men's Top Out Ripstop Pants",
+      "url": "https://www.eddiebauer.com/p/10307065/men's-top-out-ripstop-pants?sp=1&color=Sprig",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030666_283C1/10307065?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030666_485C1/10307065?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030666_969C1/10307065?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030666_283C1/10307065?preset=swatch"
+      ],
+      "priceOriginal": "$75.00",
+      "priceSale": "45.00",
+      "rating": 4.7,
+      "ratingCount": 276,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "Regular Price",
+        "Sale Price"
+      ]
+    },
+    {
+      "id": "97",
+      "title": "Men's Switch Five-Pocket Slim Pants",
+      "url": "https://www.eddiebauer.com/p/12950610/men's-switch-five-pocket-slim-pants?sp=1&color=Dark%20Smoke",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291948_707C1/12950610?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291948_488C1/12950610?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291948_644C1/12950610?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291948_707C1/12950610?preset=swatch"
+      ],
+      "priceOriginal": "$119.00",
+      "priceSale": "71.40",
+      "rating": 4.2,
+      "ratingCount": 109,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "Regular Price",
+        "Sale Price"
+      ]
+    },
+    {
+      "id": "98",
+      "title": "Men's Rappel Canvas Pants",
+      "url": "https://www.eddiebauer.com/p/12951630/men's-rappel-canvas-pants?sp=1&color=Dark%20Khaki",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291056_110C1/12951630?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291056_110C1/12951630?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291056_241C1/12951630?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291056_485C1/12951630?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291056_738C1/12951630?preset=swatch"
+      ],
+      "priceOriginal": "$90.00",
+      "priceSale": "54.00",
+      "rating": 4.4,
+      "ratingCount": 206,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "Regular Price",
+        "Sale Price"
+      ]
+    },
+    {
+      "id": "99",
+      "title": "Men's Mountain Flex Jeans - Classic Fit",
+      "url": "https://www.eddiebauer.com/p/10353021/men's-mountain-flex-jeans-classic-fit?sp=1&color=Hazelnut",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030881_557C1/10353021?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030881_181C1/10353021?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030881_241C1/10353021?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030881_485C1/10353021?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030881_557C1/10353021?preset=swatch"
+      ],
+      "priceOriginal": "$70.00",
+      "priceSale": "42.00",
+      "rating": 4.2,
+      "ratingCount": 117,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "Regular Price",
+        "Sale Price"
+      ]
+    },
+    {
+      "id": "100",
+      "url": "https://www.eddiebauer.com/p/10307946/men's-horizon-guide-10%22-chino-shorts?sp=1&color=Light%20Khaki",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0038045_225C1/10307946?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0038045_100C1/10307946?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0038045_225C1/10307946?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0038045_433C1/10307946?preset=swatch"
+      ],
+      "title": "Men's Horizon Guide 10\" Chino Shorts",
+      "priceSale": "42.00",
+      "rating": "4.7",
+      "ratingCount": "777",
+      "tag": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "101",
+      "url": "https://www.eddiebauer.com/p/12951778/men's-resonance-jogger-pants?sp=1&color=Black",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291303_100C1/12951778?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291303_182C1/12951778?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291303_392C1/12951778?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291303_100C1/12951778?preset=swatch"
+      ],
+      "title": "Men's Resonance Jogger Pants",
+      "priceSale": "36.00",
+      "rating": "4.4",
+      "ratingCount": "60",
+      "tag": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "102",
+      "url": "https://www.eddiebauer.com/p/10353324/men's-authentic-jeans-relaxed-fit?sp=1&color=Faded%20Indigo",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030877_027C1/10353324?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030877_027C1/10353324?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030877_050C1/10353324?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030877_310C1/10353324?preset=swatch"
+      ],
+      "title": "Men's Authentic Jeans - Relaxed Fit",
+      "priceSale": "39.00",
+      "rating": "2.7",
+      "ratingCount": "7",
+      "tag": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "103",
+      "url": "https://www.eddiebauer.com/p/10307148/men's-horizon-guide-wander-shorts-2.0?sp=1&color=Ocean",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030928_518C1/10307148?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030928_219C1/10307148?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030928_225C1/10307148?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030928_485C1/10307148?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030928_518C1/10307148?preset=swatch"
+      ],
+      "title": "Men's Horizon Guide Wander Shorts 2.0",
+      "priceSale": "42.00",
+      "rating": "5.0",
+      "ratingCount": "1",
+      "tag": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "104",
+      "url": "https://www.eddiebauer.com/p/10307064/men's-top-out-ripstop-shorts?sp=1&color=Flax",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030665_969C1/10307064?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030665_219C1/10307064?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030665_283C1/10307064?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030665_485C1/10307064?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030665_969C1/10307064?preset=swatch"
+      ],
+      "title": "Men's Top Out Ripstop Shorts",
+      "priceSale": "39.00",
+      "rating": "4.8",
+      "ratingCount": "155",
+      "tag": "Pants & Shorts 40% off"
+    }
+  ],
+  "women": [
+    {
+      "id": "105",
+      "url": "https://www.eddiebauer.com/p/21107084/women's-adventurer(r)-stretch-ripstop-ankle-pants?sp=1&color=Mulberry",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0112025_417C1/21107084?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0112025_150C1/21107084?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112025_283C1/21107084?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112025_485C1/21107084?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112025_417C1/21107084?preset=swatch"
+      ],
+      "title": "Women's Adventurer® Stretch Ripstop Ankle Pants",
+      "priceSale": "39.00",
+      "rating": "4.2",
+      "ratingCount": "540",
+      "tag": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "106",
+      "url": "https://www.eddiebauer.com/p/23151016/women's-horizon-high-rise-cropped-pants?sp=1&color=Pumice",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314013_150C1/23151016?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314013_100C1/23151016?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314013_493C1/23151016?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314013_707C1/23151016?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314013_150C1/23151016?preset=swatch"
+      ],
+      "title": "Women's Horizon High-Rise Cropped Pants",
+      "priceSale": "42.00",
+      "rating": "4.6",
+      "ratingCount": "587",
+      "tag": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "107",
+      "url": "https://www.eddiebauer.com/p/21107032/women's-stretch-legend-wash-pants-boyfriend?sp=1&color=Cameo%20Pink",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0117708_109C1/21107032?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0117708_417C1/21107032?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0117708_485C1/21107032?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0117708_507C1/21107032?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0117708_109C1/21107032?preset=swatch"
+      ],
+      "title": "Women's Stretch Legend Wash Pants - Boyfriend",
+      "priceSale": "42.00",
+      "rating": "4.2",
+      "ratingCount": "1427",
+      "tag": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "108",
+      "url": "https://www.eddiebauer.com/p/23151017/women's-horizon-high-rise-skort?sp=1&color=Pumice",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314014_150C1/23151017?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314014_100C1/23151017?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314014_181C1/23151017?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314014_377C1/23151017?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314014_707C1/23151017?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314014_898C1/23151017?preset=swatch"
+      ],
+      "title": "Women's Horizon High-Rise Skort",
+      "priceSale": "39.00",
+      "rating": "4.6",
+      "ratingCount": "417",
+      "tag": "New"
+    },
+    {
+      "id": "109",
+      "url": "https://www.eddiebauer.com/p/21107085/women's-adventurer(r)-stretch-ripstop-shorts?sp=1&color=Carbon",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0112026_485C1/21107085?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0112026_150C1/21107085?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112026_283C1/21107085?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112026_417C1/21107085?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112026_485C1/21107085?preset=swatch"
+      ],
+      "title": "Women's Adventurer® Stretch Ripstop Shorts",
+      "priceSale": "30.00",
+      "rating": "4.3",
+      "ratingCount": "496",
+      "tag": "Pants & Shorts 40% off"
+    },
+    {
+      "id": "110",
+      "url": "https://www.eddiebauer.com/p/23151018/women's-horizon-bermuda-shorts?sp=1&color=Dark%20Smoke",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314015_707C1/23151018?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314015_150C1/23151018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314015_100C1/23151018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314015_181C1/23151018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314015_493C1/23151018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314015_898C1/23151018?preset=swatch"
+      ],
+      "title": "Women's Horizon Bermuda Shorts",
+      "priceOriginal": "65.00",
+      "priceSale": "39.00",
+      "rating": "4.6",
+      "ratingCount": 834,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "New"
+      ]
+    },
+    {
+      "id": "111",
+      "url": "https://www.eddiebauer.com/p/23151219/women's-sightscape-horizon-pull-on-joggers?sp=1&color=Storm",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0312760_182C1/23151219?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0312760_100C1/23151219?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0312760_283C1/23151219?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0312760_898C1/23151219?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0312760_182C1/23151219?preset=swatch"
+      ],
+      "title": "Women's Sightscape Horizon Pull-On Joggers",
+      "priceOriginal": "$85.00",
+      "priceSale": "51.00",
+      "rating": "4.6",
+      "ratingCount": 430,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "112",
+      "url": "https://www.eddiebauer.com/p/21117092/women's-boyfriend-rolled-denim-shorts-relaxed-fit?sp=1&color=Faded%20Vintage",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0112029_285C1/21117092?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0112029_471C1/21117092?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112029_050C1/21117092?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112029_500C1/21117092?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112029_285C1/21117092?preset=swatch"
+      ],
+      "title": "Women's Boyfriend Rolled Denim Shorts - Relaxed Fit",
+      "priceOriginal": "$70.00",
+      "priceSale": "42.00",
+      "rating": "4.4",
+      "ratingCount": 546,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "113",
+      "url": "https://www.eddiebauer.com/p/21107218/women's-willit-stretch-legend-wash-shorts-5%22?sp=1&color=Cameo%20Pink",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0110957_109C1/21107218?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0110957_315C1/21107218?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0110957_485C1/21107218?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0110957_507C1/21107218?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0110957_898C1/21107218?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0110957_109C1/21107218?preset=swatch"
+      ],
+      "title": "Women's Willit Stretch Legend Wash Shorts - 5\"",
+      "priceOriginal": "$50.00",
+      "priceSale": "30.00",
+      "rating": "4.3",
+      "ratingCount": 722,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "New"
+      ]
+    },
+    {
+      "id": "114",
+      "url": "https://www.eddiebauer.com/p/21117348/women's-boyfriend-mid-rise-jeans-slim-fit?sp=1&color=Weathered%20Indigo",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0114220_872C1/21117348?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0114220_476C1/21117348?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0114220_506C1/21117348?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0114220_872C1/21117348?preset=swatch"
+      ],
+      "title": "Women's Boyfriend Mid-Rise Jeans - Slim Fit",
+      "priceOriginal": "$80.00",
+      "priceSale": "48.00",
+      "rating": "3.8",
+      "ratingCount": 1538,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "115",
+      "url": "https://www.eddiebauer.com/p/20990496/women's-cozy-camp-fleece-jogger-pants?sp=1&color=Heather%20Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0092304_158C1/20990496?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0092304_100C1/20990496?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0092304_256C1/20990496?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0092304_898C1/20990496?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0092304_158C1/20990496?preset=swatch"
+      ],
+      "title": "Women's Cozy Camp Fleece Jogger Pants",
+      "priceOriginal": "$60.00",
+      "priceSale": "36.00",
+      "rating": "4.5",
+      "ratingCount": 2136,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "116",
+      "url": "https://www.eddiebauer.com/p/21117493/women's-voyager-high-rise-bootcut-jeans-classic-fit?sp=1&color=Dark%20Indigo",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0111885_083C1/21117493?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0111885_209C1/21117493?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0111885_325C1/21117493?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0111885_083C1/21117493?preset=swatch"
+      ],
+      "title": "Women's Voyager High-Rise Bootcut Jeans - Classic Fit",
+      "priceOriginal": "$85.00",
+      "priceSale": "51.00",
+      "rating": "4.4",
+      "ratingCount": 609,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "117",
+      "url": "https://www.eddiebauer.com/p/23151316/women's-sightscape-horizon-convertible-roll-up-pants?sp=1&color=Dark%20Smoke",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0311902_707C1/23151316?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0311902_045C1/23151316?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0311902_100C1/23151316?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0311902_150C1/23151316?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0311902_898C1/23151316?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0311902_707C1/23151316?preset=swatch"
+      ],
+      "title": "Women's Sightscape Horizon Convertible Roll-Up Pants",
+      "priceOriginal": "$75.00",
+      "priceSale": "45.00",
+      "rating": "4.4",
+      "ratingCount": 1415,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "118",
+      "url": "https://www.eddiebauer.com/p/23117043/women's-aster-skirt?sp=1&color=Black",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0315858_100C1/23117043?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0315858_100C1/23117043?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315858_493C1/23117043?preset=swatch"
+      ],
+      "title": "Women's Aster Skirt",
+      "priceOriginal": "$70.00",
+      "priceSale": "42.00",
+      "rating": "4.0",
+      "ratingCount": 9,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "119",
+      "url": "https://www.eddiebauer.com/p/23151348/women's-incline-utility-capris?sp=1&color=Spruce",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0312387_738C1/23151348?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0312387_100C1/23151348?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0312387_898C1/23151348?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0312387_738C1/23151348?preset=swatch"
+      ],
+      "title": "Women's Incline Utility Capris",
+      "priceOriginal": "$65.00",
+      "priceSale": "39.00",
+      "rating": "4.1",
+      "ratingCount": 526,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "New"
+      ]
+    },
+    {
+      "id": "120",
+      "url": "https://www.eddiebauer.com/p/a0314792/women's-incline-utility-bermuda-shorts?sp=1&color=Spruce",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314792_738C1/a0314792?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314792_100C1/a0314792?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314792_898C1/a0314792?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314792_738C1/a0314792?preset=swatch"
+      ],
+      "title": "Women's Incline Utility Bermuda Shorts",
+      "priceOriginal": "$60.00",
+      "priceSale": "36.00",
+      "rating": "4.5",
+      "ratingCount": 263,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "New"
+      ]
+    },
+    {
+      "id": "121",
+      "url": "https://www.eddiebauer.com/p/23151347/women's-incline-utility-pants?sp=1&color=Spruce",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0312306_738C1/23151347?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0312306_100C1/23151347?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0312306_898C1/23151347?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0312306_738C1/23151347?preset=swatch"
+      ],
+      "title": "Women's Incline Utility Pants",
+      "priceOriginal": "$70.00",
+      "priceSale": "42.00",
+      "rating": "4.3",
+      "ratingCount": 684,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "New"
+      ]
+    },
+    {
+      "id": "122",
+      "url": "https://www.eddiebauer.com/p/21105490/women's-voyager-high-rise-skinny-jeans-slim-fit?sp=1&color=Creek",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0112196_209C1/21105490?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0112196_083C1/21105490?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112196_325C1/21105490?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112196_209C1/21105490?preset=swatch"
+      ],
+      "title": "Women's Voyager High-Rise Skinny Jeans - Slim Fit",
+      "priceOriginal": "$85.00",
+      "priceSale": "51.00",
+      "rating": "4.3",
+      "ratingCount": 369,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "123",
+      "url": "https://www.eddiebauer.com/p/23117010/women's-guide-trex-78-length-leggings?sp=1&color=Spruce",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314000_738C1/23117010?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314000_100C1/23117010?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314000_271C1/23117010?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314000_485C1/23117010?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314000_738C1/23117010?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0314000_019C1/23117010?preset=swatch"
+      ],
+      "title": "Women's Guide Trex 7/8-Length Leggings",
+      "priceOriginal": "$80.00",
+      "priceSale": "48.00",
+      "rating": "4.5",
+      "ratingCount": 148,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "124",
+      "url": "https://www.eddiebauer.com/p/23151047/women's-sightscape-horizon-slim-straight-ankle-pants?sp=1&color=Purple%20Haze",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0312741_898C1/23151047?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0312741_182C1/23151047?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0312741_100C1/23151047?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0312741_898C1/23151047?preset=swatch"
+      ],
+      "title": "Women's Sightscape Horizon Slim Straight Ankle Pants",
+      "priceOriginal": "$80.00",
+      "priceSale": "48.00",
+      "rating": "4.5",
+      "ratingCount": 436,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "125",
+      "url": "https://www.eddiebauer.com/p/23151057/women's-departure-7%22-shorts?sp=1&color=Pumice",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0315429_150C1/23151057?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0315429_100C1/23151057?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315429_045C1/23151057?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315429_150C1/23151057?preset=swatch"
+      ],
+      "title": "Women's Departure 7\" Shorts",
+      "priceOriginal": "$65.00",
+      "priceSale": "39.00",
+      "rating": "4.3",
+      "ratingCount": 7,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "New"
+      ]
+    },
+    {
+      "id": "126",
+      "url": "https://www.eddiebauer.com/p/23117012/women's-guide-trex-capris?sp=1&color=Carbon",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314002_485C1/23117012?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314002_100C1/23117012?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314002_537C1/23117012?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314002_485C1/23117012?preset=swatch"
+      ],
+      "title": "Women's Guide Trex Capris",
+      "priceOriginal": "$75.00",
+      "priceSale": "45.00",
+      "rating": "4.5",
+      "ratingCount": 106,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "127",
+      "url": "https://www.eddiebauer.com/p/20959457/women's-weekender-ankle-pants?sp=1&color=Dusk",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094512_581C1/20959457?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094512_150C1/20959457?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094512_256C1/20959457?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094512_581C1/20959457?preset=swatch"
+      ],
+      "title": "Women's Weekender Ankle Pants",
+      "priceOriginal": "$60.00",
+      "salePrice": "36.00",
+      "rating": "3.4",
+      "ratingCount": 5,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "New"
+      ]
+    },
+    {
+      "id": "128",
+      "url": "https://www.eddiebauer.com/p/23117040/women's-motion-cozy-joggers?sp=1&color=Dusty%20Loden",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0315517_256C1/23117040?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0315517_100C1/23117040?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315517_256C1/23117040?preset=swatch"
+      ],
+      "title": "Women's Motion Cozy Joggers",
+      "priceOriginal": "$80.00",
+      "priceSale": "48.00",
+      "rating": "4.3",
+      "ratingCount": 15,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "129",
+      "url": "https://www.eddiebauer.com/p/20959593/women's-weekender-joggers?sp=1&color=Dusk",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094868_581C1/20959593?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094868_150C1/20959593?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094868_256C1/20959593?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094868_581C1/20959593?preset=swatch"
+      ],
+      "title": "Women's Weekender Joggers",
+      "priceOriginal": "$60.00",
+      "priceSale": "36.00",
+      "rating": "3.0",
+      "ratingCount": 1,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "New"
+      ]
+    },
+    {
+      "id": "130",
+      "url": "https://www.eddiebauer.com/p/23117011/women's-guide-trex-leggings?sp=1&color=Spruce",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314001_738C1/23117011?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314001_100C1/23117011?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314001_485C1/23117011?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314001_537C1/23117011?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314001_677C1/23117011?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314001_714C1/23117011?preset=swatch"
+      ],
+      "title": "Women's Guide Trex Leggings",
+      "priceOriginal": "$85.00",
+      "priceSale": "51.00",
+      "rating": "4.4",
+      "ratingCount": 133,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "131",
+      "url": "https://www.eddiebauer.com/p/23151019/women's-departure-performance-skort?sp=1&color=Dusk",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314016_581C1/23151019?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314016_100C1/23151019?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314016_581C1/23151019?preset=swatch"
+      ],
+      "title": "Women's Departure Performance Skort",
+      "priceOriginal": "$65.00",
+      "priceSale": "39.00",
+      "rating": "4.5",
+      "ratingCount": 243,
+      "tags": [
+        "Pants & Shorts 40% off",
+        "New"
+      ]
+    },
+    {
+      "id": "132",
+      "url": "https://www.eddiebauer.com/p/20902746/women's-cozy-camp-fleece-shorts?sp=1&color=Heather%20Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0093089_158C1/20902746?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0093089_100C1/20902746?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0093089_256C1/20902746?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0093089_898C1/20902746?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0093089_158C1/20902746?preset=swatch"
+      ],
+      "title": "Women's Cozy Camp Fleece Shorts",
+      "priceOriginal": "$45.00",
+      "priceSale": "27.00",
+      "rating": "4.8",
+      "ratingCount": 267,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    },
+    {
+      "id": "133",
+      "url": "https://www.eddiebauer.com/p/D6161122/women's-revival-high-rise-bootcut-jeans-slim-fit?sp=1&color=Summit",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0610762_314C1/D6161122?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0610762_137C1/D6161122?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0610762_274C1/D6161122?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0610762_314C1/D6161122?preset=swatch"
+      ],
+      "title": "Women's Revival High-Rise Bootcut Jeans - Slim Fit",
+      "priceOriginal": "$70.00",
+      "priceSale": "42.00",
+      "rating": "4.4",
+      "ratingCount": 61,
+      "tags": [
+        "Pants & Shorts 40% off"
+      ]
+    }
+  ],
+  "T-shirt": [
+    {
+      "id": "134",
+      "url": "https://www.eddiebauer.com/p/20902475/women's-favorite-short-sleeve-crewneck-t-shirt?sp=1&color=White",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0097303_500C1/20902475?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/P0097303_100C1/20902475?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0097303_149C1/20902475?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0097303_256C1/20902475?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0097303_349C1/20902475?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0097303_419C1/20902475?preset=swatch"
+      ],
+      "title": "Women's Favorite Short-Sleeve Crewneck T-Shirt",
+      "priceSale": "25.00",
+      "tag": "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%",
+      "rating": "4.3",
+      "ratingCount": 2908
+    },
+    {
+      "id": "135",
+      "url": "https://www.eddiebauer.com/p/20990511/women's-graphic-t-shirt-floral?sp=1&color=Purple%20Haze",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094893_898C1/20990511?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094893_898C1/20990511?preset=swatch"
+      ],
+      "title": "Women's Graphic T-Shirt - Floral",
+      "priceSale": "30.00",
+      "tag": "New",
+      "rating": "3",
+      "ratingCount": 2
+    },
+    {
+      "id": "136",
+      "url": "https://www.eddiebauer.com/p/20990023/women's-surreal-travel-crewneck-t-shirt?sp=1&color=Blue%20Fog",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094484_867C1/20990023?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094484_500C1/20990023?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094484_178C1/20990023?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094484_256C1/20990023?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094484_825C1/20990023?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094484_867C1/20990023?preset=swatch"
+      ],
+      "title": "Women's Surreal Travel Crewneck T-Shirt",
+      "priceSale": "45.00",
+      "tag": "",
+      "rating": "4.3",
+      "ratingCount": 4
+    },
+    {
+      "id": "137",
+      "url": "https://www.eddiebauer.com/p/a0332730/graphic-t-shirt-release-the-wild?sp=1&color=Pale%20Blue",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0332730_419C1/a0332730?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0332730_419C1/a0332730?preset=swatch"
+      ],
+      "title": "Graphic T-Shirt - Release The Wild",
+      "priceSale": "30.00",
+      "tag": "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%",
+      "rating": "5",
+      "ratingCount": 1
+    },
+    {
+      "id": "138",
+      "url": "https://www.eddiebauer.com/p/20990996/women's-everyday-essentials-short-sleeve-t-shirt-print?sp=1&color=Desert%20Pink",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094675_825C1/20990996?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094675_031C1/20990996?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094675_670C1/20990996?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094675_825C1/20990996?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094675_832C1/20990996?preset=swatch"
+      ],
+      "title": "Women's Everyday Essentials Short-Sleeve T-Shirt - Print",
+      "priceSale": "40.00",
+      "tag": "New",
+      "rating": "3.4",
+      "ratingCount": 16
+    },
+    {
+      "id": "139",
+      "url": "https://www.eddiebauer.com/p/13302914/graphic-t-shirt-reel-'em-in?sp=1&color=Dusk",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0332873_581C1/13302914?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0332873_581C1/13302914?preset=swatch"
+      ],
+      "title": "Graphic T-Shirt - Reel 'Em In",
+      "priceSale": "30.00",
+      "tag": "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%",
+      "rating": "5",
+      "ratingCount": 4
+    },
+    {
+      "id": "140",
+      "url": "https://www.eddiebauer.com/p/a0094504/women's-lightwave-short-sleeve-t-shirt-stripe?sp=1&color=Ivory",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094504_529C1/a0094504?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094504_405C1/a0094504?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094504_256C1/a0094504?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094504_529C1/a0094504?preset=swatch"
+      ],
+      "title": "Women's Lightwave Short-Sleeve T-Shirt - Stripe",
+      "priceSale": "35.00",
+      "rating": 4.7,
+      "ratingCount": 6,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "141",
+      "url": "https://www.eddiebauer.com/p/a0333096/graphic-t-shirt-horizon-peaks?sp=1&color=Ivory",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0333096_529C1/a0333096?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0333096_529C1/a0333096?preset=swatch"
+      ],
+      "title": "Graphic T-Shirt - Horizon Peaks",
+      "priceSale": "30.00",
+      "rating": 5,
+      "ratingCount": 3,
+      "tags": [
+        "Buy 2 Save 10%",
+        "Buy 3 Save 20%",
+        "Buy 4+ Save 30%"
+      ]
+    },
+    {
+      "id": "142",
+      "url": "https://www.eddiebauer.com/p/20902476/women's-favorite-short-sleeve-v-neck-t-shirt?sp=1&color=Yellow",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0097327_900C1/20902476?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0097327_500C1/20902476?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0097327_100C1/20902476?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0097327_149C1/20902476?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0097327_256C1/20902476?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0097327_349C1/20902476?preset=swatch"
+      ],
+      "title": "Women's Favorite Short-Sleeve V-Neck T-Shirt",
+      "priceSale": "20.99",
+      "priceOriginal": "$25.00",
+      "rating": 4.3,
+      "ratingCount": 3480,
+      "tags": [
+        "Buy 2 Save 10%",
+        "Buy 3 Save 20%",
+        "Buy 4+ Save 30%"
+      ]
+    },
+    {
+      "id": "143",
+      "url": "https://www.eddiebauer.com/p/20990961/women's-short-sleeve-graphic-t-shirt?sp=1&color=Ivory",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094178_529C1/20990961?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094178_500C1/20990961?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094178_511C1/20990961?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094178_529C1/20990961?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094178_941C1/20990961?preset=swatch"
+      ],
+      "title": "Women's Short-Sleeve Graphic T-Shirt",
+      "priceSale": "30.00",
+      "rating": 4.7,
+      "ratingCount": 29,
+      "tags": [
+        "Buy 2 Save 10%",
+        "Buy 3 Save 20%",
+        "Buy 4+ Save 30%"
+      ]
+    },
+    {
+      "id": "144",
+      "url": "https://www.eddiebauer.com/p/a0094481/women's-surreal-travel-v-neck-t-shirt?sp=1&color=Blue%20Fog",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094481_867C1/a0094481?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094481_178C1/a0094481?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094481_256C1/a0094481?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094481_500C1/a0094481?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094481_825C1/a0094481?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094481_867C1/a0094481?preset=swatch"
+      ],
+      "title": "Women's Surreal Travel V-Neck T-Shirt",
+      "priceSale": "45.00",
+      "rating": 4.7,
+      "ratingCount": 7,
+      "tags": []
+    },
+    {
+      "id": "145",
+      "url": "https://www.eddiebauer.com/p/20990961/women's-short-sleeve-graphic-t-shirt?sp=1&color=Ivory",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094178_529C1/20990961?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094178_500C1/20990961?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094178_511C1/20990961?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094178_529C1/20990961?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094178_941C1/20990961?preset=swatch"
+      ],
+      "title": "Women's Short-Sleeve Graphic T-Shirt",
+      "priceSale": "30.00",
+      "rating": 4.7,
+      "ratingCount": 29,
+      "tags": [
+        "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%"
+      ]
+    },
+    {
+      "id": "146",
+      "url": "https://www.eddiebauer.com/p/a0094481/women's-surreal-travel-v-neck-t-shirt?sp=1&color=Blue%20Fog",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094481_867C1/a0094481?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094481_178C1/a0094481?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094481_256C1/a0094481?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094481_500C1/a0094481?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094481_825C1/a0094481?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094481_867C1/a0094481?preset=swatch"
+      ],
+      "title": "Women's Surreal Travel V-Neck T-Shirt",
+      "priceSale": "45.00",
+      "rating": 4.7,
+      "ratingCount": 7,
+      "tags": []
+    },
+    {
+      "id": "147",
+      "url": "https://www.eddiebauer.com/p/a0333110/men's-short-sleeve-baja-henley?sp=1&color=White",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0333110_500C1/a0333110?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0333110_732C1/a0333110?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0333110_182C1/a0333110?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0333110_867C1/a0333110?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0333110_900C1/a0333110?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0333110_500C1/a0333110?preset=swatch"
+      ],
+      "title": "Men's Short-Sleeve Baja Henley",
+      "priceSale": "50.00",
+      "rating": 3.6,
+      "ratingCount": 8,
+      "tags": []
+    },
+    {
+      "id": "148",
+      "url": "https://www.eddiebauer.com/p/13302059/graphic-t-shirt-snowy-range?sp=1&color=Mallard",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0332994_720C1/13302059?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0332994_720C1/13302059?preset=swatch"
+      ],
+      "title": "Graphic T-Shirt - Snowy Range",
+      "priceSale": "30.00",
+      "rating": 4.9,
+      "ratingCount": 9,
+      "tags": [
+        "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%"
+      ]
+    },
+    {
+      "id": "149",
+      "url": "https://www.eddiebauer.com/p/12950874/men's-solarfoil(r)-short-sleeve-upf-crew?sp=1&color=Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291608_139C1/12950874?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291608_419C1/12950874?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291608_100C1/12950874?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291608_500C1/12950874?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291608_139C1/12950874?preset=swatch"
+      ],
+      "title": "Men's Solarfoil® Short-Sleeve UPF Crew",
+      "priceSale": "50.00",
+      "rating": 5,
+      "ratingCount": 4,
+      "tags": []
+    },
+    {
+      "id": "150",
+      "url": "https://www.eddiebauer.com/p/20990505/women's-graphic-t-shirt-butterfly?sp=1&color=Dusty%20Loden",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094891_256C1/20990505?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094891_256C1/20990505?preset=swatch"
+      ],
+      "title": "Women's Graphic T-Shirt - Butterfly",
+      "priceSale": "30.00",
+      "rating": 4.3,
+      "ratingCount": 7,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "151",
+      "url": "https://www.eddiebauer.com/p/13302797/men's-legend-wash-100percent-cotton-short-sleeve-classic-t-shirt?sp=1&color=Olive",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0332534_728C1/13302797?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0332534_100C1/13302797?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0332534_060C1/13302797?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0332534_123C1/13302797?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0332534_149C1/13302797?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0332534_428C1/13302797?preset=swatch"
+      ],
+      "title": "Men's Legend Wash 100% Cotton Short-Sleeve Classic T-Shirt",
+      "priceSale": "28.00",
+      "rating": "4.2",
+      "ratingCount": 819,
+      "tags": [
+        "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%"
+      ]
+    },
+    {
+      "id": "152",
+      "url": "https://www.eddiebauer.com/p/13302810/retro-fish-graphic-t-shirt?sp=1&color=Heather%20Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0332583_158C1/13302810?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0332583_158C1/13302810?preset=swatch"
+      ],
+      "title": "Retro Fish Graphic T-Shirt",
+      "priceSale": "30.00",
+      "rating": "5",
+      "ratingCount": 1,
+      "tags": [
+        "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%"
+      ]
+    },
+    {
+      "id": "153",
+      "url": "https://www.eddiebauer.com/p/20990055/women's-tryout-long-sleeve-v-neck-t-shirt?sp=1&color=Sage",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094448_732C1/20990055?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094448_378C1/20990055?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094448_500C1/20990055?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094448_732C1/20990055?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094448_951C1/20990055?preset=swatch"
+      ],
+      "title": "Women's Tryout Long-Sleeve V-Neck T-Shirt",
+      "priceSale": "40.00",
+      "rating": "4.7",
+      "ratingCount": 3
+    },
+    {
+      "id": "154",
+      "url": "https://www.eddiebauer.com/p/13366246/graphic-t-shirt-squatch-patrol?sp=1&color=Olive",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0333114_728C1/13366246?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0333114_983C1/13366246?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0333114_728C1/13366246?preset=swatch"
+      ],
+      "title": "Graphic T-Shirt - Squatch Patrol",
+      "priceSale": "30.00",
+      "rating": "4.8",
+      "ratingCount": 4,
+      "tags": [
+        "Buy 2 Save 10%, Buy 3 Save 20%, Buy 4+ Save 30%"
+      ]
+    },
+    {
+      "id": "155",
+      "url": "https://www.eddiebauer.com/p/12950881/men's-mountain-trek-short-sleeve-shirt?sp=1&color=Ochre",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291664_610C1/12950881?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291664_867C1/12950881?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291664_130C1/12950881?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291664_149C1/12950881?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291664_225C1/12950881?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291664_244C1/12950881?preset=swatch"
+      ],
+      "title": "Men's Mountain Trek Short-Sleeve Shirt",
+      "priceSale": "40.00",
+      "rating": "4.3",
+      "ratingCount": 6
+    },
+    {
+      "id": "156",
+      "url": "https://www.eddiebauer.com/p/a0095877/women's-graphic-t-shirt-nature-club?sp=1&color=Natural",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0095877_273C1/a0095877?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0095877_273C1/a0095877?preset=swatch"
+      ],
+      "title": "Women's Graphic T-Shirt - Nature Club",
+      "priceSale": "30.00",
+      "rating": "",
+      "ratingCount": 0,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "157",
+      "url": "https://www.eddiebauer.com/p/a0094485/women's-surreal-travel-long-sleeve-shirt?sp=1&color=White",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094485_500C1/a0094485?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094485_178C1/a0094485?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094485_256C1/a0094485?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094485_825C1/a0094485?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094485_867C1/a0094485?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094485_500C1/a0094485?preset=swatch"
+      ],
+      "title": "Women's Surreal Travel Long-Sleeve Shirt",
+      "priceSale": "50.00",
+      "rating": "4",
+      "ratingCount": 5
+    },
+    {
+      "id": "158",
+      "url": "https://www.eddiebauer.com/p/20990026/women's-infinity-slub-short-sleeve-t-shirt?sp=1&color=Mulberry",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094490_417C1/20990026?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094490_100C1/20990026?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094490_256C1/20990026?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094490_500C1/20990026?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0094490_417C1/20990026?preset=swatch"
+      ],
+      "title": "Women's Infinity Slub Short-Sleeve T-Shirt",
+      "priceSale": "45.00",
+      "rating": "5",
+      "ratingCount": 4,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "159",
+      "url": "https://www.eddiebauer.com/p/20990512/women's-graphic-t-shirt-peace?sp=1&color=Blue%20Fog",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0094894_867C1/20990512?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0094894_867C1/20990512?preset=swatch"
+      ],
+      "title": "Women's Graphic T-Shirt - Peace",
+      "priceSale": "30.00",
+      "rating": "4",
+      "ratingCount": 2,
+      "tags": [
+        "New"
+      ]
+    }
+  ],
+  "Swim": [
+    {
+      "id": "160",
+      "url": "https://www.eddiebauer.com/p/71400018/exploration-upf-vented-boonie-hat?sp=1&color=Mulberry",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0140018_417C1/71400018?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0140018_225C1/71400018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140018_045C1/71400018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140018_100C1/71400018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140018_198C1/71400018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140018_256C1/71400018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140018_417C1/71400018?preset=swatch"
+      ],
+      "title": "Exploration UPF Vented Boonie Hat",
+      "priceSale": "38.00",
+      "rating": "4.5",
+      "ratingCount": 379
+    },
+    {
+      "id": "161",
+      "url": "https://www.eddiebauer.com/p/a0315431/women's-tidal-3%22-high-rise-shorts?sp=1&color=Blossom",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0315431_046C1/a0315431?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0315431_100C1/a0315431?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315431_126C1/a0315431?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315431_292C1/a0315431?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315431_046C1/a0315431?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315431_942C1/a0315431?preset=swatch"
+      ],
+      "title": "Women's Tidal 3\" High-Rise Shorts",
+      "priceOriginal": "$60.00",
+      "priceSale": "44.99",
+      "rating": "3.1",
+      "ratingCount": 8,
+      "tags": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "162",
+      "url": "https://www.eddiebauer.com/p/20824311/women's-baja-short-sleeve-shirt?sp=1&color=Rosewood",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0081229_891C1/20824311?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0081229_051C1/20824311?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081229_109C1/20824311?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081229_309C1/20824311?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081229_508C1/20824311?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081229_770C1/20824311?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0081229_821C1/20824311?preset=swatch"
+      ],
+      "title": "Women's Baja Short-Sleeve Shirt",
+      "priceOriginal": "$50.00",
+      "priceSale": "43.99",
+      "rating": "4.1",
+      "ratingCount": 134,
+      "tags": [
+        "Sale",
+        "New"
+      ]
+    },
+    {
+      "id": "163",
+      "url": "https://www.eddiebauer.com/p/a0313450/women's-guide-ripstop-skort?sp=1&color=Mulberry",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0313450_417C1/a0313450?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0313450_100C1/a0313450?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0313450_417C1/a0313450?preset=swatch"
+      ],
+      "title": "Women's Guide Ripstop Skort",
+      "priceSale": "70.00",
+      "rating": "4.5",
+      "ratingCount": 164,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "164",
+      "url": "https://www.eddiebauer.com/p/71400208/resolution-upf-baseball-cap?sp=1&color=Vapour",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0140208_931C1/71400208?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0140208_707C1/71400208?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140208_100C1/71400208?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140208_249C1/71400208?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140208_931C1/71400208?preset=swatch"
+      ],
+      "title": "Resolution UPF Baseball Cap",
+      "priceSale": "40.00",
+      "rating": "4.6",
+      "reviews": 44,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "165",
+      "url": "https://www.eddiebauer.com/p/23150782/women's-departure-v-neck-tank-top-solid?sp=1&color=Tangelo",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0313639_386C1/23150782?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0313639_100C1/23150782?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0313639_256C1/23150782?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0313639_386C1/23150782?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0313639_023C1/23150782?preset=swatch"
+      ],
+      "title": "Women's Departure V-Neck Tank Top - Solid",
+      "priceOriginal": "$40.00",
+      "priceSale": "29.99",
+      "rating": "4.4",
+      "ratingCount": 205,
+      "tags": [
+        "Sale Price"
+      ]
+    },
+    {
+      "id": "166",
+      "url": "https://www.eddiebauer.com/p/71400195/trailcool-upf-cooling-sun-hat?sp=1&color=Loden",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0140195_719C1/71400195?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0140195_225C1/71400195?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140195_707C1/71400195?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140195_719C1/71400195?preset=swatch"
+      ],
+      "title": "Trailcool UPF Cooling Sun Hat",
+      "priceSale": "50.00",
+      "rating": "4.0",
+      "ratingCount": 53,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "167",
+      "url": "https://www.eddiebauer.com/p/71600153/women's-exploration-upf-wide-brim-hat?sp=1&color=Alpine%20Green",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0160153_493C1/71600153?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0160153_246C1/71600153?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0160153_493C1/71600153?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0160153_500C1/71600153?preset=swatch"
+      ],
+      "title": "Women's Exploration UPF Wide Brim Hat",
+      "priceSale": "45.00",
+      "rating": "4.5",
+      "ratingCount": 424,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "168",
+      "url": "https://www.eddiebauer.com/p/21708190/women's-woven-texture-dress?sp=1&color=Ivory",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170248_529C1/21708190?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0170248_100C1/21708190?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0170248_309C1/21708190?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0170248_529C1/21708190?preset=swatch"
+      ],
+      "title": "Women's Woven Texture Dress",
+      "priceSale": "80.00",
+      "rating": "4.0",
+      "ratingCount": 1,
+      "tags": [
+        "New",
+        "New",
+        "New"
+      ]
+    },
+    {
+      "id": "169",
+      "url": "https://www.eddiebauer.com/p/23107457/women's-departure-amphib-shorts?sp=1&color=Blue%20Fog",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0311334_867C1/23107457?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0311334_100C1/23107457?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0311334_256C1/23107457?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0311334_386C1/23107457?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0311334_990C1/23107457?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0311334_867C1/23107457?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/P0311334_118C1/23107457?preset=swatch"
+      ],
+      "title": "Women's Departure Amphib Shorts",
+      "priceOriginal": "$55.00",
+      "priceSale": "47.99",
+      "rating": "4.7",
+      "ratingCount": 603,
+      "tags": [
+        "Sale Price"
+      ]
+    },
+    {
+      "id": "170",
+      "url": "https://www.eddiebauer.com/p/21200018/women's-triangle-bikini-top?sp=1&color=Sea%20Green",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0120018_821C1/21200018?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0120018_100C1/21200018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120018_126C1/21200018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120018_821C1/21200018?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120018_832C1/21200018?preset=swatch"
+      ],
+      "title": "Women's Triangle Bikini Top",
+      "priceSale": "60.00",
+      "rating": "5 of 5 stars",
+      "ratingCount": 1
+    },
+    {
+      "id": "171",
+      "url": "https://www.eddiebauer.com/p/21200008/women's-high-waist-swim-briefs?sp=1&color=Seabreeze",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0120008_832C1/21200008?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0120008_447C1/21200008?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120008_100C1/21200008?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120008_126C1/21200008?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120008_636C1/21200008?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120008_691C1/21200008?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120008_821C1/21200008?preset=swatch"
+      ],
+      "title": "Women's High-Waist Swim Briefs",
+      "priceOriginal": "$60.00",
+      "priceSale": "31.99",
+      "rating": "3.5 of 5 stars",
+      "ratingCount": 4,
+      "tags": [
+        "Sale Price"
+      ]
+    },
+    {
+      "id": "172",
+      "url": "https://www.eddiebauer.com/p/21708186/women's-everyday-cotton-shirt-dress?sp=1&color=Sage",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170242_732C1/21708186?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0170242_051C1/21708186?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0170242_732C1/21708186?preset=swatch"
+      ],
+      "title": "Women's Everyday Cotton Shirt Dress",
+      "priceSale": "109.00",
+      "ratingCount": 0,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "173",
+      "url": "https://www.eddiebauer.com/p/21107131/women's-canvas-utility-shorts?sp=1&color=Spruce",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0112524_738C1/21107131?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0112524_051C1/21107131?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112524_245C1/21107131?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112524_738C1/21107131?preset=swatch"
+      ],
+      "title": "Women's Canvas Utility Shorts",
+      "priceSale": "65.00",
+      "rating": "4 of 5 stars",
+      "ratingCount": 2,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "174",
+      "url": "https://www.eddiebauer.com/p/71600229/women's-daisy-travel-wrap?sp=1&color=Tan",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0160229_245C1/71600229?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0160229_100C1/71600229?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0160229_139C1/71600229?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0160229_245C1/71600229?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0160229_447C1/71600229?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0160229_862C1/71600229?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0160229_989C1/71600229?preset=swatch"
+      ],
+      "title": "Women's Daisy Travel Wrap",
+      "priceSale": "45.00",
+      "rating": "3.8 of 5 stars",
+      "ratingCount": 377
+    },
+    {
+      "id": "175",
+      "url": "https://www.eddiebauer.com/p/82201019/honeycomb-beach-towel?sp=1&color=Blue",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0221019_300C1/82201019?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0221019_600C1/82201019?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0221019_300C1/82201019?preset=swatch"
+      ],
+      "title": "Honeycomb Beach Towel",
+      "priceSale": "49.00",
+      "rating": "0 of 5 stars",
+      "ratingCount": 0,
+      "tags": []
+    },
+    {
+      "id": "176",
+      "url": "https://www.eddiebauer.com/p/82200250/preston-polarized-sunglasses?sp=1&color=Seamist",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0220250_734C1/82200250?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0220250_500C1/82200250?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220250_100C1/82200250?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220250_271C1/82200250?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220250_300C1/82200250?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220250_301C1/82200250?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220250_734C1/82200250?preset=swatch"
+      ],
+      "title": "Preston Polarized Sunglasses",
+      "priceSale": "59.00",
+      "rating": "4.6 of 5 stars",
+      "ratingCount": 197,
+      "tags": []
+    },
+    {
+      "id": "178",
+      "url": "https://www.eddiebauer.com/p/21107132/women's-washed-cotton-shorts?sp=1&color=Field%20Gold",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0112525_810C1/21107132?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0112525_898C1/21107132?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112525_485C1/21107132?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112525_732C1/21107132?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0112525_810C1/21107132?preset=swatch"
+      ],
+      "title": "Women's Washed Cotton Shorts",
+      "priceSale": "45.00",
+      "rating": "3 of 5 stars",
+      "ratingCount": 2,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "179",
+      "url": "https://www.eddiebauer.com/p/21200020/women's-wrap-front-one-piece-swimsuit?sp=1&color=Seabreeze",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0120020_832C1/21200020?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0120020_100C1/21200020?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120020_126C1/21200020?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120020_821C1/21200020?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0120020_832C1/21200020?preset=swatch"
+      ],
+      "title": "Women's Wrap-Front One-Piece Swimsuit",
+      "priceSale": "90.00",
+      "rating": "3.4 of 5 stars",
+      "ratingCount": 8,
+      "tags": []
+    },
+    {
+      "id": "180",
+      "url": "https://www.eddiebauer.com/p/23151060/women's-tidal-3%22-high-rise-shorts-print?sp=1&color=Sea%20Green",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0315432_821C1/23151060?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0315432_667C1/23151060?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315432_539C1/23151060?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315432_742C1/23151060?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315432_916C1/23151060?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315432_997C1/23151060?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0315432_821C1/23151060?preset=swatch"
+      ],
+      "title": "Women's Tidal 3\" High-Rise Shorts - Print",
+      "priceOriginal": "$60.00",
+      "priceSale": "44.99",
+      "rating": "4.2 of 5 stars",
+      "ratingCount": 22,
+      "tags": [
+        "Sale Price"
+      ]
+    },
+    {
+      "id": "181",
+      "url": "https://www.eddiebauer.com/p/23101160/women's-eb-hemplify-long-sleeve-beach-shirt?sp=1&color=Baltic",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0314913_986C1/23101160?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0314913_500C1/23101160?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314913_106C1/23101160?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314913_581C1/23101160?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314913_986C1/23101160?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0314913_753C1/23101160?preset=swatch"
+      ],
+      "title": "Women's EB Hemplify Long-Sleeve Beach Shirt",
+      "priceOriginal": "$80.00",
+      "priceSale": "68.99",
+      "rating": "4.2 of 5 stars",
+      "ratingCount": 36,
+      "tags": [
+        "Sale Price",
+        "New"
+      ]
+    },
+    {
+      "id": "182",
+      "url": "https://www.eddiebauer.com/p/71600156/women's-panama-packable-straw-hat?sp=1&color=Mandarin",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0160156_912C1/71600156?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0160156_273C1/71600156?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0160156_028C1/71600156?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0160156_227C1/71600156?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0160156_912C1/71600156?preset=swatch"
+      ],
+      "title": "Women's Panama Packable Straw Hat",
+      "priceSale": "40.00",
+      "rating": "4.2 of 5 stars",
+      "ratingCount": 276,
+      "tags": []
+    },
+    {
+      "id": "183",
+      "url": "https://www.eddiebauer.com/p/82200983/blanca-polarized-sunglasses?sp=1&color=Lt%20Brown",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0220983_622C1/82200983?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0220983_622C1/82200983?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220983_100C1/82200983?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220983_271C1/82200983?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220983_600C1/82200983?preset=swatch"
+      ],
+      "title": "Blanca Polarized Sunglasses",
+      "priceSale": "59.00",
+      "rating": "4.9 of 5 stars",
+      "ratingCount": 7,
+      "tags": []
+    },
+    {
+      "id": "184",
+      "url": "https://www.eddiebauer.com/p/92000215/women's-break-point-ii-flip-flops?sp=1&color=Blossom",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0200215_046C1/92000215?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0200215_100C1/92000215?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0200215_046C1/92000215?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0200215_283C1/92000215?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0200215_436C1/92000215?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0200215_500C1/92000215?preset=swatch"
+      ],
+      "title": "Women's Break Point II Flip Flops",
+      "priceSale": "40.00",
+      "rating": "3.3 of 5 stars",
+      "ratingCount": 33,
+      "tags": []
+    },
+    {
+      "id": "185",
+      "url": "https://www.eddiebauer.com/p/71400208/resolution-upf-baseball-cap?sp=1&color=Vapour",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0140208_931C1/71400208?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0140208_707C1/71400208?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140208_100C1/71400208?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140208_249C1/71400208?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140208_931C1/71400208?preset=swatch"
+      ],
+      "title": "Resolution UPF Baseball Cap",
+      "priceSale": "40.00",
+      "rating": 4.6,
+      "ratingCount": 44,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "186",
+      "url": "https://www.eddiebauer.com/p/71400195/trailcool-upf-cooling-sun-hat?sp=1&color=Loden",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0140195_719C1/71400195?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0140195_225C1/71400195?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140195_707C1/71400195?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0140195_719C1/71400195?preset=swatch"
+      ],
+      "title": "Trailcool UPF Cooling Sun Hat",
+      "priceSale": "50.00",
+      "rating": 4,
+      "ratingCount": 53,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "187",
+      "url": "https://www.eddiebauer.com/p/12953121/men's-bait-watch-belted-shorts?sp=1&color=Clover",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291680_309C1/12953121?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291680_225C1/12953121?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291680_178C1/12953121?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291680_300C1/12953121?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291680_309C1/12953121?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291680_610C1/12953121?preset=swatch"
+      ],
+      "title": "Men's Bait Watch Belted Shorts",
+      "priceSale": "36.00",
+      "rating": 0,
+      "ratingCount": 0,
+      "tags": [
+        "New",
+        "Sale"
+      ]
+    },
+    {
+      "id": "188",
+      "url": "https://www.eddiebauer.com/p/13302901/men's-baja-knit-button-up-shirt?sp=1&color=Pumice",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0331489_150C1/13302901?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0331489_118C1/13302901?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0331489_227C1/13302901?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0331489_405C1/13302901?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0331489_581C1/13302901?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0331489_150C1/13302901?preset=swatch"
+      ],
+      "title": "Men's Baja Knit Button-Up Shirt",
+      "priceSale": "60.00",
+      "rating": 4.3,
+      "ratingCount": 15,
+      "tags": []
+    },
+    {
+      "id": "189",
+      "url": "https://www.eddiebauer.com/p/12950875/men's-solarfoil(r)-upf-pullover-hoodie?sp=1&color=Clover",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291609_309C1/12950875?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291609_139C1/12950875?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291609_436C1/12950875?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291609_500C1/12950875?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291609_553C1/12950875?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291609_905C1/12950875?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291609_309C1/12950875?preset=swatch"
+      ],
+      "title": "Men's Solarfoil® UPF Pullover Hoodie",
+      "priceSale": "70.00",
+      "rating": 4.9,
+      "ratingCount": 7,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "190",
+      "url": "https://www.eddiebauer.com/p/12924889/men's-departure-two-pocket-shirt?sp=1&color=Blue%20Fog",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291636_867C1/12924889?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291636_245C1/12924889?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291636_485C1/12924889?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291636_728C1/12924889?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291636_867C1/12924889?preset=swatch"
+      ],
+      "title": "Men's Departure Two-Pocket Shirt",
+      "priceSale": "70.00",
+      "rating": 4.6,
+      "ratingCount": 9,
+      "tags": []
+    },
+    {
+      "id": "191",
+      "url": "https://www.eddiebauer.com/p/12950874/men's-solarfoil(r)-short-sleeve-upf-crew?sp=1&color=Gray",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0291608_139C1/12950874?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0291608_419C1/12950874?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291608_100C1/12950874?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291608_500C1/12950874?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0291608_139C1/12950874?preset=swatch"
+      ],
+      "title": "Men's Solarfoil® Short-Sleeve UPF Crew",
+      "priceSale": "50.00",
+      "rating": "5 of 5 stars",
+      "ratingCount": 4,
+      "tags": []
+    },
+    {
+      "id": "192",
+      "url": "https://www.eddiebauer.com/p/91904003/men's-eddie-amphib-water-shoes?sp=1&color=Cinder",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0194003_938C1/91904003?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0194003_938C1/91904003?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0194003_236C1/91904003?preset=swatch"
+      ],
+      "title": "Men's Eddie Amphib Water Shoes",
+      "priceSale": "110.00",
+      "rating": "4.3 of 5 stars",
+      "ratingCount": 241,
+      "tags": []
+    },
+    {
+      "id": "193",
+      "url": "https://www.eddiebauer.com/p/13401850/men's-tidelands-short-sleeve-yarn-dyed-textured-shirt?sp=1&color=Htr%20Teak",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340625_556C1/13401850?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0340625_248C1/13401850?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340625_030C1/13401850?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340625_161C1/13401850?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340625_162C1/13401850?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340625_721C1/13401850?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0340625_556C1/13401850?preset=swatch"
+      ],
+      "title": "Men's Tidelands Short-Sleeve Yarn-Dyed Textured Shirt",
+      "priceSale": "55.00",
+      "rating": "4.6 of 5 stars",
+      "ratingCount": 158,
+      "tags": [
+        "New",
+        "New",
+        "New",
+        "New"
+      ]
+    },
+    {
+      "id": "194",
+      "url": "https://www.eddiebauer.com/p/10307148/men's-horizon-guide-wander-shorts-2.0?sp=1&color=Ocean",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030928_518C1/10307148?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030928_219C1/10307148?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030928_225C1/10307148?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030928_485C1/10307148?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030928_518C1/10307148?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030928_732C1/10307148?preset=swatch"
+      ],
+      "title": "Men's Horizon Guide Wander Shorts 2.0",
+      "priceOriginal": "$70.00",
+      "priceSale": "42.00",
+      "rating": "5 of 5 stars",
+      "ratingCount": 1,
+      "tags": [
+        "New"
+      ]
+    },
+    {
+      "id": "195",
+      "url": "https://www.eddiebauer.com/p/10307123/men's-getaway-flex-twill-chino-shorts?sp=1&color=Light%20Harbor",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030865_983C1/10307123?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030865_110C1/10307123?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030865_283C1/10307123?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030865_485C1/10307123?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030865_983C1/10307123?preset=swatch"
+      ],
+      "title": "Men's Getaway Flex Twill Chino Shorts",
+      "priceOriginal": "$60.00",
+      "priceSale": "36.00",
+      "rating": null,
+      "ratingCount": 0,
+      "tags": [
+        "New",
+        "New",
+        "New",
+        "New"
+      ]
+    },
+    {
+      "id": "196",
+      "url": "https://www.eddiebauer.com/p/10307114/men's-tidal-shorts-2.0?sp=1&color=Clover",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0030825_309C1/10307114?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0030825_848C1/10307114?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030825_119C1/10307114?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030825_309C1/10307114?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030825_350C1/10307114?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030825_365C1/10307114?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0030825_433C1/10307114?preset=swatch"
+      ],
+      "title": "Men's Tidal Shorts 2.0",
+      "priceOriginal": "$60.00",
+      "priceSale": "51.99",
+      "rating": "3.9 of 5 stars",
+      "ratingCount": 19,
+      "tags": []
+    },
+    {
+      "id": "197",
+      "url": "https://www.eddiebauer.com/p/91900152/men's-break-point-ii-flip-flops?sp=1&color=Sprig",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0190152_283C1/91900152?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0190152_236C1/91900152?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0190152_100C1/91900152?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0190152_182C1/91900152?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0190152_283C1/91900152?preset=swatch"
+      ],
+      "title": "Men's Break  Point II Flip Flops",
+      "priceSale": "40.00",
+      "rating": "4.3 of 5 stars",
+      "ratingCount": 3,
+      "tags": []
+    },
+    {
+      "id": "198",
+      "url": "https://www.eddiebauer.com/p/82300297/backpack-chair?sp=1&color=Pink%20Grapefruit",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0230297_441C1/82300297?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0230297_315C1/82300297?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230297_039C1/82300297?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230297_436C1/82300297?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230297_441C1/82300297?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230297_493C1/82300297?preset=swatch"
+      ],
+      "title": "Backpack Chair",
+      "priceSale": "109.00",
+      "rating": "4.6 of 5 stars",
+      "ratingCount": 373,
+      "tags": []
+    },
+    {
+      "id": "199",
+      "url": "https://www.eddiebauer.com/p/82300236/stowaway-3.0-packable-sling-bag?sp=1&color=Blue%20Fog",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0230236_867C1/82300236?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0230236_147C1/82300236?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230236_249C1/82300236?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230236_251C1/82300236?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230236_338C1/82300236?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230236_392C1/82300236?preset=swatch"
+      ],
+      "title": "Stowaway 3.0 Packable Sling Bag",
+      "priceSale": "45.00",
+      "rating": "4.7 of 5 stars",
+      "ratingCount": 480,
+      "tags": []
+    },
+    {
+      "id": "200",
+      "url": "https://www.eddiebauer.com/p/82300542/3-in-1-stadium-seat?sp=1&color=Blue",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0230542_300C1/82300542?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0230542_315C1/82300542?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230542_039C1/82300542?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230542_300C1/82300542?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230542_493C1/82300542?preset=swatch"
+      ],
+      "title": "3-In-1 Stadium Seat",
+      "priceSale": "45.00",
+      "rating": "4 of 5 stars",
+      "ratingCount": 4,
+      "tags": []
+    },
+    {
+      "id": "201",
+      "url": "https://www.eddiebauer.com/p/82300237/stowaway-packable-25l-cinch-tote-bag?sp=1&color=Tobacco",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0230237_251C1/82300237?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0230237_147C1/82300237?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230237_249C1/82300237?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230237_251C1/82300237?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230237_392C1/82300237?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0230237_539C1/82300237?preset=swatch"
+      ],
+      "title": "Stowaway Packable 25L Cinch Tote Bag",
+      "priceSale": "40.00",
+      "rating": "4.8 of 5 stars",
+      "ratingCount": 911,
+      "tags": []
+    },
+    {
+      "id": "202",
+      "url": "https://www.eddiebauer.com/p/82200255/highridge-polarized-sunglasses?sp=1&color=Black",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0220255_100C1/82200255?preset=328",
+      "swatches": [
+        "https://assets.eddiebauer.com/match/mName/D0220255_100C1/82200255?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220255_200C1/82200255?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220255_400C1/82200255?preset=swatch",
+        "https://assets.eddiebauer.com/match/mName/D0220255_600C1/82200255?preset=swatch"
+      ],
+      "title": "Highridge Polarized Sunglasses",
+      "priceSale": "59.00",
+      "rating": "4.8 of 5 stars",
+      "ratingCount": 97,
+      "tags": []
+    }
+  ],
+  "cart": [
+    {
+      "id": "15c5",
+      "productId": "72",
+      "type": "Dresses",
+      "title": "Women's Woven Texture Dress",
+      "price": "80.00",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0170248_529C1/21708190?preset=328",
+      "color": "Default",
+      "size": "M",
+      "fit": "Regular",
+      "quantity": 4,
+      "totalPrice": 80
+    },
+    {
+      "id": "2cf5",
+      "productId": "41",
+      "type": "Topselling",
+      "title": "Men's Ultimate Voyager Travel Blazer",
+      "price": "89.99",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0340504_123C1/13401821?preset=328",
+      "color": "Default",
+      "size": "M",
+      "fit": "Regular",
+      "quantity": 1,
+      "totalPrice": 89.99
+    },
+    {
+      "id": "6a5e",
+      "productId": "43",
+      "type": "jackets",
+      "title": "Women's Rainfoil® Storm Waterproof Jacket",
+      "price": "109.00",
+      "mainImage": "https://assets.eddiebauer.com/match/mName/D0062223_150C1/20656828?preset=swatch",
+      "color": "Color 1",
+      "size": "S",
+      "fit": "Regular",
+      "quantity": 3,
+      "totalPrice": 109
+    }
+  ]
+}
