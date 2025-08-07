@@ -39,7 +39,7 @@ const Cart = () => {
 
       if (newQuantity < 1) return;
 
-      await axios.patch(`http://localhost:3000/cart/${id}`, {
+      await axios.patch(`https://mock-eddie.onrender.com/cart/${id}`, {
         quantity: newQuantity
       });
 
@@ -54,7 +54,7 @@ const Cart = () => {
 
   const removeItem = async (id) => {
     try {
-      await axios.delete(`http://localhost:3000/cart/${id}`);
+      await axios.delete(`https://mock-eddie.onrender.com/cart/${id}`);
       setCartItems(cartItems.filter(item => item.id !== id));
     } catch (err) {
       setError("Failed to remove item.");
